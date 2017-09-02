@@ -15,8 +15,8 @@ All events are free unless otherwise noted.
 ### Multiple Days
 Event	                | Company       | Location     | Time	    | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Meet Coinbase](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) | Coinbase | Multiple | Multiple | Fill a form or email
-[Women in Tech Workshop](Ashley.Monseth@Target.com) | Target | TBD | TBD | Invite-only via email
+[Meet Coinbase](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) | [Coinbase](https://www.coinbase.com/careers?locale=en) | Multiple | Multiple | Fill a form or email
+[Women in Tech Workshop](Ashley.Monseth@Target.com) | [Target](https://corporate.target.com/careers/) | TBD | TBD | Invite-only via email
 
 ### Tuesday, October 3
 Event	                | Company       | Location     | Time	    | Notes        
@@ -27,12 +27,12 @@ Event	                | Company       | Location     | Time	    | Notes
 ### Wednesday, October 4
 Event	                | Company       | Location     | Time	    | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-| | | | 
+| [Netflix Happy Hour](https://docs.google.com/forms/d/e/1FAIpQLSd-xu9qofkZPJWxdVCnbimYGvLyyT-TxvisJZQ45SoPMpf8sg/viewform) | [Netflix](https://jobs.netflix.com/jobs) | TBD | TBD | Fill a form 
 
 ### Thursday, October 5
 Event	                | Company       | Location     | Time	    | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), <br /> Apple, <br /> Intuit, <br /> Patreon, <br /> Twilio, <br /> Twitter | TBD | Evening | Fill a form
+[iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | TBD | Evening | Fill a form
 
 ### Friday, October 6
 Event	                | Company       | Location     | Time	    | Notes        
