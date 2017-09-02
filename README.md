@@ -7,8 +7,8 @@ Comprehensive list of events, receptions, and parties hosted by companies at the
 GHC 2017 is held at:  
 **[Orange County Convention Centre](https://www.occc.net/) (OCCC)**  
 West Building  
-9800 International Drive  
-Orlando, FL 32819
+[9800 International Drive  
+Orlando, FL 32819](https://www.openstreetmap.org/search?query=Orange%20County%20Convention%20Centre#map=16/28.4248/-81.4693)
 
 All events are free unless otherwise noted.  
 For more, read [Optimizing the Grace Hopper Celebration Experience](https://medium.com/@missCarrieMah/optimizing-the-grace-hopper-celebration-experience-726d624a0733)
@@ -52,6 +52,6 @@ Event	                 | Date          | Location     | Time
 [ABI.MSP Viewing Party](https://local.anitaborg.org/event/abi-msp-presents-ghc-2017-viewing-party/) | Mon, Oct 16 | Target Commons <br /> 1001 Nicollet Mall <br /> Minneapolis, MN 55403 | 6PM-8:30PM
 [ABI.LA Viewing Party](https://local.anitaborg.org/event/placeholder-ghc-viewing-party-jet-propulsion-laboratory-jpl/) | Wed, Oct 18 | Jet Propulsion Laboratory <br /> 4800 Oak Grove Dr, <br />Pasadena, CA 91109 | 5PM-9PM
 [ABI.Seattle GHC/1](https://local.anitaborg.org/event/abi-seattle-presents-ghc1-seattle/) | Sat, Nov 12 | Microsoft Conference Center <br /> Building 33, 16070 NE 36th Way <br /> Redmond, WA 98052 | 8:30AM-6:30PM
-[GHC India](https://ghcindia.anitaborg.org/) | Bangalore International Exhibition Centre <br /> 10th Mile, Tumkur Road, Madavara Post <br /> Dasanapura Hobli, Bangalore 562 123, | Thu Nov 16-Fri Nov 17 | TBD
+[GHC India](https://ghcindia.anitaborg.org/) | Thu Nov 16-Fri Nov 17 | Bangalore International Exhibition Centre <br /> 10th Mile, Tumkur Road, Madavara Post <br /> Dasanapura Hobli, Bangalore 562 123 | TBD
 
 Inspired by [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
