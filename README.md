@@ -42,8 +42,11 @@ Event	                 | Company       | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 | | | |
 
+### Additional Events
+* Discounted [Walt Disney Theme Park & Special Event Tickets](https://www.mydisneygroup.com/ghc2017)
+
 ### GHC-related Events
-* For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alternatives](https://code.likeagirl.io/diversity-in-tech-conferences-grace-hopper-celebration-alternatives-bd9c8d01e18d)
+For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alternatives](https://code.likeagirl.io/diversity-in-tech-conferences-grace-hopper-celebration-alternatives-bd9c8d01e18d)
 
 Event	                 | Date          | Location     | Time	           
 :---------------------:| ------------- | ------------ | -------- 
