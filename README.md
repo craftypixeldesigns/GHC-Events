@@ -29,7 +29,7 @@ Event	                 | Company       | Location     | Time	   | Notes
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 | [Netflix Happy Hour](https://docs.google.com/forms/d/e/1FAIpQLSd-xu9qofkZPJWxdVCnbimYGvLyyT-TxvisJZQ45SoPMpf8sg/viewform) | [Netflix](https://jobs.netflix.com/jobs) | TBD | TBD | Fill a form 
-| [Women in Tech Workshop sponsored by Target](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | upon RSVP| 3:30 - 5:00 pm | RSVP: (ashley.monseth@target.com) will send location details upon RSVP
+| [Women in Tech Workshop sponsored by Target](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | upon RSVP| 3:30 - 5:00 pm | RSVP: (ashley.monseth@target.com) 
 
 ### Thursday, October 5
 Event	                 | Company       | Location     | Time	   | Notes        
