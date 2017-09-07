@@ -12,7 +12,7 @@ West Building
 [9800 International Drive  
 Orlando, FL 32819](https://www.openstreetmap.org/search?query=Orange%20County%20Convention%20Centre#map=16/28.4248/-81.4693)
 
-All events are free unless otherwise noted.  
+All events are free and located in Orlando, FL unless otherwise noted.  
 
 ### Multiple Days
 Event	                 | Company       | Location     | Time	   | Notes        
@@ -29,8 +29,8 @@ Event	                 | Company       | Location     | Time	   | Notes
 ### Wednesday, October 4
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-| [Netflix Happy Hour](https://docs.google.com/forms/d/e/1FAIpQLSd-xu9qofkZPJWxdVCnbimYGvLyyT-TxvisJZQ45SoPMpf8sg/viewform) | [Netflix](https://jobs.netflix.com/jobs) | Upon RSVP | Upon RSVP | Fill a form 
-| [Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP| 3:30PM - 5:00PM | RSVP Email [Ashley Monseth](mailto:ashley.monseth@target.com) 
+| [Women in Tech Happy Hour](https://netflixatgracehopper.splashthat.com/?em=537) | [Netflix](https://jobs.netflix.com/jobs) | The Castle Hotel <br /> 8629 International Dr. 32819| 6PM - 8PM | RSVP with passcode #NetflixLeadingLadies 
+| [Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP | 3:30PM - 5:00PM | RSVP Email [Ashley Monseth](mailto:ashley.monseth@target.com) 
 
 ### Thursday, October 5
 Event	                 | Company       | Location     | Time	   | Notes        
