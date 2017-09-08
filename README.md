@@ -18,6 +18,7 @@ All events are free and located in Orlando, FL unless otherwise noted.
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Meet Coinbase](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) | [Coinbase](https://www.coinbase.com/careers?locale=en) | Multiple | Multiple | Fill a form or email
+[Attend Slack Events](https://slackghc2017.splashthat.com/) | [Slack](https://slack.com/jobs) & [Lesbians Who Tech](https://lesbianswhotech.org/) | Upon RSVP | Wed evening & Fri afternoon | RSVP
 
 
 ### Tuesday, October 3
