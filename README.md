@@ -17,8 +17,8 @@ All events are free and located in Orlando, FL unless otherwise noted.
 ### Multiple Days
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Meet Coinbase](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) | [Coinbase](https://www.coinbase.com/careers?locale=en) | Multiple | Multiple | Fill a form or email
-[Attend Slack Events](https://slackghc2017.splashthat.com/) | [Slack](https://slack.com/jobs) & [Lesbians Who Tech](https://lesbianswhotech.org/) | Upon RSVP | Wed evening & Fri afternoon | RSVP
+[Meet Coinbase](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) | [Coinbase](https://www.coinbase.com/careers?locale=en) | 7:30PM <br /> 12PM & 6:30PM <br /> 9AM & 5PM | Tuesday, Oct 3 <br /> Wednesday, Oct 4 <br /> Thursday, Oct 5 | Fill a form or email
+[Slack Events](https://slackghc2017.splashthat.com/) | [Slack](https://slack.com/jobs) & [Lesbians Who Tech](https://lesbianswhotech.org/) | Evening <br /> Afternoon | Wednesday, Oct 4 <br /> Friday, Oct 6 | RSVP
 
 
 ### Tuesday, October 3
