@@ -17,26 +17,26 @@ All events are free and located in Orlando, FL unless otherwise noted.
 ### Multiple Days
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
-[Meet Coinbase](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) | [Coinbase](https://www.coinbase.com/careers?locale=en) | Upon RSVP | Tuesday, Oct 3 <br /> Wednesday, Oct 4 <br /> Thursday, Oct 5 | 7:30PM <br /> 12PM & 6:30PM <br /> 9AM & 5PM | Fill a form or email
-[Slack Events](https://slackghc2017.splashthat.com/) | [Slack](https://slack.com/jobs) & <br /> [Lesbians Who Tech](https://lesbianswhotech.org/) | Upon RSVP | Wednesday, Oct 4 <br /> Friday, Oct 6 | Evening <br /> Afternoon | RSVP
+[Meet Coinbase](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) | [Coinbase](https://www.coinbase.com/careers?locale=en) | Upon RSVP | Tuesday, Oct 3 <br /> Wednesday, Oct 4 <br /> Thursday, Oct 5 | 7:30PM <br /> 12PM & 6:30PM <br /> 9AM & 5PM | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) or [email Amy Yin](mailto:amy.yin@coinbase.com)
+[Slack Events](https://slackghc2017.splashthat.com/) | [Slack](https://slack.com/jobs) & <br /> [Lesbians Who Tech](https://lesbianswhotech.org/) | Upon RSVP | Wednesday, Oct 4 <br /> Friday, Oct 6 | Evening <br /> Afternoon | [RSVP](https://slackghc2017.splashthat.com/)
 
 
 ### Tuesday, October 3
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Networking Happy Hour](https://www.eventbrite.com/e/grace-hopper-classpass-happy-hour-tickets-37809698827) | [ClassPass](https://classpass.com/jobs) | Mikado Japanese Steakhouse Terrace <br /> World Center Marriott <br /> 8701 World Center Dr <br /> Orlando, FL 32821 | 7PM - 10PM | [RSVP](https://www.eventbrite.com/e/grace-hopper-classpass-happy-hour-tickets-37809698827) or [email](acarlisle@classpass.com)
+[Networking Happy Hour](https://www.eventbrite.com/e/grace-hopper-classpass-happy-hour-tickets-37809698827) | [ClassPass](https://classpass.com/jobs) | Mikado Japanese Steakhouse Terrace <br /> World Center Marriott <br /> 8701 World Center Dr <br /> Orlando, FL 32821 | 7PM - 10PM | [RSVP](https://www.eventbrite.com/e/grace-hopper-classpass-happy-hour-tickets-37809698827) or [email](mailto:acarlisle@classpass.com)
 
 
 ### Wednesday, October 4
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-| [Women in Tech Happy Hour](https://netflixatgracehopper.splashthat.com/?em=537) | [Netflix](https://jobs.netflix.com/jobs) | The Castle Hotel <br /> 8629 International Dr. 32819| 6PM - 8PM | RSVP with passcode #NetflixLeadingLadies 
-| [Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP | 3:30PM - 5:00PM | RSVP Email [Ashley Monseth](mailto:ashley.monseth@target.com) 
+| [Women in Tech Happy Hour](https://netflixatgracehopper.splashthat.com/?em=537) | [Netflix](https://jobs.netflix.com/jobs) | The Castle Hotel <br /> 8629 International Dr. 32819| 6PM - 8PM | [RSVP](https://netflixatgracehopper.splashthat.com/?em=537) with passcode #NetflixLeadingLadies 
+| [Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP | 3:30PM - 5:00PM | [Email Ashley Monseth](mailto:ashley.monseth@target.com) 
 
 ### Thursday, October 5
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), <br />  [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Upon RSVP | Evening | Fill a form
+[iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), <br />  [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Upon RSVP | Evening | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform)
 
 ### Friday, October 6
 Event	                 | Company       | Location     | Time	   | Notes        
