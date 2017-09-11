@@ -24,7 +24,7 @@ Event	                 | Company       | Location     | Date        | Time	   | 
 ### Tuesday, October 3
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-| | | | 
+[Networking Happy Hour](https://www.eventbrite.com/e/grace-hopper-classpass-happy-hour-tickets-37809698827) | [ClassPass](https://classpass.com/jobs) | Mikado Japanese Steakhouse Terrace <br /> World Center Marriott <br /> 8701 World Center Dr <br /> Orlando, FL 32821 | 7PM - 10PM | [RSVP](https://www.eventbrite.com/e/grace-hopper-classpass-happy-hour-tickets-37809698827) or [email](acarlisle@classpass.com)
 
 
 ### Wednesday, October 4
