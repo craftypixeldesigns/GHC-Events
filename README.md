@@ -1,7 +1,7 @@
 # GHC-Events
 Comprehensive list of events, receptions, and parties hosted by companies at the Grace Hopper Celebration for Women in Computing. Events are held in October to provide networking opportunities for GHC attendees. 
 
-**Contribute** by sending a pull request, opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing [hello@misscarriemah.ca](mailto:hello@misscarriemah.ca). Remember that sharing is caring (my handle is [@missCarrieMah](twitter.com/misscarriemah))
+**Contribute** by sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing [hello@misscarriemah.ca](mailto:hello@misscarriemah.ca). Remember that sharing is caring (my handle is [@missCarrieMah](twitter.com/misscarriemah))
 
 ## 2017 GHC Events
 For more, read [Optimizing the Grace Hopper Celebration Experience](https://medium.com/@missCarrieMah/optimizing-the-grace-hopper-celebration-experience-726d624a0733)
@@ -45,6 +45,8 @@ Event	                 | Company       | Location     | Time	   | Notes
 
 ### Additional Events
 * Discounted [Walt Disney Theme Park & Special Event Tickets](https://www.mydisneygroup.com/ghc2017)
+* [GHC Socials](https://ghc.anitaborg.org/2017-attend/conference-overview/community-socials/) (no RSVP required)
+* [GHC Friday Night Celebration](https://www.eiseverywhere.com/ehome/index.php?eventid=212774&tabid=556987&cid=1738254&sessionid=16963516&sessionchoice=1&) (no RSVP required)
 
 ### GHC-related Events
 For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alternatives](https://code.likeagirl.io/diversity-in-tech-conferences-grace-hopper-celebration-alternatives-bd9c8d01e18d)
