@@ -49,6 +49,11 @@ Event	                 | Company       | Location     | Time	   | Notes
 * [GHC Socials](https://ghc.anitaborg.org/2017-attend/conference-overview/community-socials/) (no RSVP required)
 * [GHC Friday Night Celebration](https://www.eiseverywhere.com/ehome/index.php?eventid=212774&tabid=556987&cid=1738254&sessionid=16963516&sessionchoice=1&) (no RSVP required)
 
+### GHC-recruitment Company Career Pages
+* [Accenture](https://www.accenture.com/us-en/careers/ghc2017)
+* [Microsoft](https://msftghc17.splashthat.com)
+* [Pixar](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Interviews---Grace-Hopper-Celebration_R-01537)
+
 ### GHC-related Events
 For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alternatives](https://code.likeagirl.io/diversity-in-tech-conferences-grace-hopper-celebration-alternatives-bd9c8d01e18d)
 
