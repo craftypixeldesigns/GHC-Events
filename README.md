@@ -30,8 +30,9 @@ Event	                 | Company       | Location     | Time	   | Notes
 ### Wednesday, October 4
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-| [Women in Tech Happy Hour](https://netflixatgracehopper.splashthat.com/?em=537) | [Netflix](https://jobs.netflix.com/jobs) | The Castle Hotel <br /> 8629 International Dr. 32819| 6PM - 8PM | [RSVP](https://netflixatgracehopper.splashthat.com/?em=537) with passcode #NetflixLeadingLadies 
-| [Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP | 3:30PM - 5:00PM | [Email Ashley Monseth](mailto:ashley.monseth@target.com) 
+[Women in Tech Happy Hour](https://netflixatgracehopper.splashthat.com/?em=537) | [Netflix](https://jobs.netflix.com/jobs) | The Castle Hotel <br /> 8629 International Dr. 32819| 6PM - 8PM | [RSVP](https://netflixatgracehopper.splashthat.com/?em=537) with passcode #NetflixLeadingLadies 
+[RIT Grade Hopper Alumnae/Student Reception](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0) | [RIT Alumni Association](https://www.rit.edu/alumni/careers) | Bahama Breeze <br /> 8849 International Dr. 32819 | 6PM - 8PM | [RSVP](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0)
+[Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP | 3:30PM - 5:00PM | [Email Ashley Monseth](mailto:ashley.monseth@target.com) 
 
 ### Thursday, October 5
 Event	                 | Company       | Location     | Time	   | Notes        
