@@ -51,8 +51,10 @@ Event	                 | Company       | Location     | Time	   | Notes
 
 ### GHC-recruitment Company Career Pages
 * [Accenture](https://www.accenture.com/us-en/careers/ghc2017)
+* [Dell](http://dell.avature.net/diversity?jobId=13668)
 * [Microsoft](https://msftghc17.splashthat.com)
 * [Pixar](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Interviews---Grace-Hopper-Celebration_R-01537)
+* [Walmart](https://walmart.recsolu.com/external/events/NvZFs8hPUJVLrK5nNV-jKQ)
 
 ### GHC-related Events
 For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alternatives](https://code.likeagirl.io/diversity-in-tech-conferences-grace-hopper-celebration-alternatives-bd9c8d01e18d)
