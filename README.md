@@ -62,7 +62,7 @@ Event	                 | Company       | Location     | Time	   | Notes
 * [Dell](http://dell.avature.net/diversity?jobId=13668)
 * [Ericsson](https://ericsson.yournextstep.com/users/sign_up?direct=qCPqztPHDXkxMPyx)
 * [Jet Propulsion Laboratory](https://experienced-jpl.icims.com/connect?eventId=44543) & [JPL Students](https://students-jpl.icims.com/connect?eventId=44543)
-* [Microsoft](https://msftghc17.splashthat.com)
+* [Microsoft](https://msftghc17.splashthat.com) & [Recruiting Event](https://ghcrecruitingevent.splashthat.com/)
 * [Pixar](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Interviews---Grace-Hopper-Celebration_R-01537)
 * [Tenable](https://www.youtube.com/watch?v=In72VXOg_ls)
 * [Walmart](https://walmart.recsolu.com/external/events/NvZFs8hPUJVLrK5nNV-jKQ)
