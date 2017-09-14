@@ -30,15 +30,15 @@ Event	                 | Company       | Location     | Time	   | Notes
 ### Wednesday, October 4
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP | 3:30PM - 5:00PM | [Email Ashley Monseth](mailto:ashley.monseth@target.com) 
 [Women in Tech Happy Hour](https://netflixatgracehopper.splashthat.com/?em=537) | [Netflix](https://jobs.netflix.com/jobs) | The Castle Hotel <br /> 8629 International Dr. 32819| 6PM - 8PM | [RSVP](https://netflixatgracehopper.splashthat.com/?em=537) with passcode #NetflixLeadingLadies 
 [RIT Grade Hopper Alumnae/Student Reception](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0) | [RIT Alumni Association](https://www.rit.edu/alumni/careers) | Bahama Breeze <br /> 8849 International Dr. 32819 | 6PM - 8PM | [RSVP](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0)
-[Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP | 3:30PM - 5:00PM | [Email Ashley Monseth](mailto:ashley.monseth@target.com) 
 
 ### Thursday, October 5
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), <br />  [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Upon RSVP | Evening | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform)
 [Allstate Grace Hopper Breakfast](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378) | [Allstate Insurance Company](https://www.allstate.com/careers.aspx) | Rosen Center Hotel <br /> Salons 3 on the Mezzanine Level <br /> 9840 International Dr. 32819 | 8AM - 9AM | [RSVP](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378)
+[iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Upon RSVP | Evening | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform)
 
 ### Friday, October 6
 Event	                 | Company       | Location     | Time	   | Notes        
