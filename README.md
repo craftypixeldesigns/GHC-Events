@@ -55,6 +55,7 @@ Event	                 | Company       | Location     | Time	   | Notes
 
 ### Company Webinars
 * [Ericsson's Virtual Open House](https://app.brazenconnect.com/events/45ywK): September 13 @ 11:30 AM - 1:30 PM CDT
+* [Microsoft Careers Live](https://www.facebook.com/events/358828177908493): September 18 @ 10AM - 10:15AM PDT
 * [Appirian Women Webinar](https://global.gotomeeting.com/join/790071925): September 26 @ 3:30 - 4:15pm (EDT)
 
 ### Company Career Pages
