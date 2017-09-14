@@ -50,14 +50,24 @@ Event	                 | Company       | Location     | Time	   | Notes
 * [GHC Socials](https://ghc.anitaborg.org/2017-attend/conference-overview/community-socials/) (no RSVP required)
 * [GHC Friday Night Celebration](https://www.eiseverywhere.com/ehome/index.php?eventid=212774&tabid=556987&cid=1738254&sessionid=16963516&sessionchoice=1&) (no RSVP required)
 
-### GHC-recruitment Company Career Pages
-* [Accenture](https://www.accenture.com/us-en/careers/ghc2017)
+## GHC-recruitment Initiatives
+
+### Company Webinars
+* [Ericsson's Virtual Open House](https://app.brazenconnect.com/events/45ywK): September 13 @ 11:30 AM - 1:30 PM CDT
+* [Appirian Women Webinar](https://global.gotomeeting.com/join/790071925): September 26 @ 3:30 - 4:15pm (EDT)
+
+### Company Career Pages
+* [Accenture](https://www.accenture.com/us-en/blogs/blogs-experience-future-tech-today?src=GHG)
 * [Dell](http://dell.avature.net/diversity?jobId=13668)
+* [Ericsson](https://ericsson.yournextstep.com/users/sign_up?direct=qCPqztPHDXkxMPyx)
+* [HBO](http://www.homeboxoffice.com/email/GHC17/1356017_HR_GHC2017-BOOTH-DESIGN-INITIATIVE_SaveTheDate_Resume_FINAL.html)
+* [Jet Propulsion Laboratory](https://experienced-jpl.icims.com/connect?eventId=44543) & [JPL Students](https://students-jpl.icims.com/connect?eventId=44543)
 * [Microsoft](https://msftghc17.splashthat.com)
 * [Pixar](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Interviews---Grace-Hopper-Celebration_R-01537)
+* [Tenable](https://www.youtube.com/watch?v=In72VXOg_ls)
 * [Walmart](https://walmart.recsolu.com/external/events/NvZFs8hPUJVLrK5nNV-jKQ)
 
-### GHC-related Events
+## GHC-related Events
 For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alternatives](https://code.likeagirl.io/diversity-in-tech-conferences-grace-hopper-celebration-alternatives-bd9c8d01e18d)
 
 Event	                 | Date          | Location     | Time	           
