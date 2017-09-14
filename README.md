@@ -56,16 +56,18 @@ Event	                 | Company       | Location     | Time	   | Notes
 ### Company Webinars
 * [Ericsson's Virtual Open House](https://app.brazenconnect.com/events/45ywK): September 13 @ 11:30 AM - 1:30 PM CDT
 * [Microsoft Careers Live](https://www.facebook.com/events/358828177908493): September 18 @ 10AM - 10:15AM PDT
-* [Appirian Women Webinar](https://global.gotomeeting.com/join/790071925): September 26 @ 3:30 - 4:15pm (EDT)
+* [Appirio Webinar](https://global.gotomeeting.com/join/790071925): September 26 @ 3:30 - 4:15pm (EDT)
 
 ### Company Career Pages
 * [Accenture](https://www.accenture.com/us-en/blogs/blogs-experience-future-tech-today?src=GHG)
+* [Appirio](https://app.jobvite.com/TalentNetwork/action/campaign/w/MzMyMTg)
 * [Dell](http://dell.avature.net/diversity?jobId=13668)
 * [Ericsson](https://ericsson.yournextstep.com/users/sign_up?direct=qCPqztPHDXkxMPyx)
 * [Jet Propulsion Laboratory](https://experienced-jpl.icims.com/connect?eventId=44543) & [JPL Students](https://students-jpl.icims.com/connect?eventId=44543)
 * [Microsoft](https://msftghc17.splashthat.com) & [Recruiting Event](https://ghcrecruitingevent.splashthat.com/)
 * [Pixar](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Interviews---Grace-Hopper-Celebration_R-01537)
 * [Tenable](https://www.youtube.com/watch?v=In72VXOg_ls)
+* [Twitter](http://twitteratghc17.splashthat.com/LISC)
 * [Walmart](https://walmart.recsolu.com/external/events/NvZFs8hPUJVLrK5nNV-jKQ)
 
 ## GHC-related Events
