@@ -38,6 +38,7 @@ Event	                 | Company       | Location     | Time	   | Notes
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Allstate Grace Hopper Breakfast](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378) | [Allstate Insurance Company](https://www.allstate.com/careers.aspx) | Rosen Center Hotel <br /> Salons 3 on the Mezzanine Level <br /> 9840 International Dr. 32819 | 8AM - 9AM | [RSVP](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378)
+[HBO Special Networking Party](http://www.homeboxoffice.com/email/GHC17/1356017_HR_GHC2017-BOOTH-DESIGN-INITIATIVE_SaveTheDate_Resume_FINAL.html) | Upon RSVP | 7PM - 9PM | [Email HBO](mailto:ghc17@hbo.com) resume & reasons for attendance
 [iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Upon RSVP | Evening | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform)
 
 ### Friday, October 6
@@ -60,7 +61,6 @@ Event	                 | Company       | Location     | Time	   | Notes
 * [Accenture](https://www.accenture.com/us-en/blogs/blogs-experience-future-tech-today?src=GHG)
 * [Dell](http://dell.avature.net/diversity?jobId=13668)
 * [Ericsson](https://ericsson.yournextstep.com/users/sign_up?direct=qCPqztPHDXkxMPyx)
-* [HBO](http://www.homeboxoffice.com/email/GHC17/1356017_HR_GHC2017-BOOTH-DESIGN-INITIATIVE_SaveTheDate_Resume_FINAL.html)
 * [Jet Propulsion Laboratory](https://experienced-jpl.icims.com/connect?eventId=44543) & [JPL Students](https://students-jpl.icims.com/connect?eventId=44543)
 * [Microsoft](https://msftghc17.splashthat.com)
 * [Pixar](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Interviews---Grace-Hopper-Celebration_R-01537)
