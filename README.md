@@ -47,6 +47,8 @@ Event	                 | Company       | Location     | Time	   | Notes
 | | | |
 
 ### Additional Events
+* [Attend GHC17 details](https://ghc.anitaborg.org/2017-attend/)
+* [Visit Orlando Discounts & Tickets](http://ghc17.orlandomeetinginfo.com/discounts-and-tickets/)
 * Discounted [Walt Disney Theme Park & Special Event Tickets](https://www.mydisneygroup.com/ghc2017)
 * [GHC Socials](https://ghc.anitaborg.org/2017-attend/conference-overview/community-socials/) (no RSVP required)
 * [GHC Friday Night Celebration](https://www.eiseverywhere.com/ehome/index.php?eventid=212774&tabid=556987&cid=1738254&sessionid=16963516&sessionchoice=1&) (no RSVP required)
