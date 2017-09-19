@@ -18,6 +18,7 @@ All events are free and located in Orlando, FL unless otherwise noted.
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
 [Meet Coinbase](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) | [Coinbase](https://www.coinbase.com/careers?locale=en) | Upon RSVP | Tuesday, Oct 3 <br /> Wednesday, Oct 4 <br /> Thursday, Oct 5 | 7:30PM <br /> 12PM & 6:30PM <br /> 9AM & 5PM | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) or [email Amy Yin](mailto:amy.yin@coinbase.com)
+[Connect with APT](https://www.linkedin.com/pulse/connect-apt-grace-hopper-2017-kate-esterman) | [APT](https://www.predictivetechnologies.com/en/careers) | Upon RSVP | Multiple | Lunch, Dinners & More | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdRbuikkOPZ-0O2K8UfxsD3wZbDNatHUc5uKnRmIjTaHvDHJw/viewform) or [email](mailto:GHC@aptmail.com)
 [Slack Events](https://slackghc2017.splashthat.com/) | [Slack](https://slack.com/jobs) & <br /> [Lesbians Who Tech](https://lesbianswhotech.org/) | Upon RSVP | Wednesday, Oct 4 <br /> Friday, Oct 6 | Evening <br /> Afternoon | [RSVP](https://slackghc2017.splashthat.com/)
 
 
@@ -33,11 +34,14 @@ Event	                 | Company       | Location     | Time	   | Notes
 [Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP | 3:30PM - 5:00PM | [Email Ashley Monseth](mailto:ashley.monseth@target.com) 
 [Women in Tech Happy Hour](https://netflixatgracehopper.splashthat.com/?em=537) | [Netflix](https://jobs.netflix.com/jobs) | The Castle Hotel <br /> 8629 International Dr. 32819| 6PM - 8PM | [RSVP](https://netflixatgracehopper.splashthat.com/?em=537) with passcode #NetflixLeadingLadies 
 [RIT Grade Hopper Alumnae/Student Reception](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0) | [RIT Alumni Association](https://www.rit.edu/alumni/careers) | Bahama Breeze <br /> 8849 International Dr. 32819 | 6PM - 8PM | [RSVP](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0)
+[Gophers Dinner](https://docs.google.com/forms/d/e/1FAIpQLSdCmBM4BuwKUxMUFMlrYqwk3v_t6mW5IZ1XJ0UyMldEffcW6A/viewform) | [Kaylyn Gibilterra](https://twitter.com/kgibilterra) | Evening | Upon RSVP | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdCmBM4BuwKUxMUFMlrYqwk3v_t6mW5IZ1XJ0UyMldEffcW6A/viewform)
 
 ### Thursday, October 5
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Allstate Grace Hopper Breakfast](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378) | [Allstate Insurance Company](https://www.allstate.com/careers.aspx) | Rosen Center Hotel <br /> Salons 3 on the Mezzanine Level <br /> 9840 International Dr. 32819 | 8AM - 9AM | [RSVP](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378)
+[CMU Grace Hopper Meetup](https://cmughc2017.splashthat.com) | [Carnegie Mellon University](http://www.cmu.edu/student-admission/index.html) | Tapa Toro <br /> 8441 International Drive 32819 | 5PM - 7PM | [RSVP](https://cmughc2017.splashthat.com) for CMU alumni, students, faculty, staff & parents
+[Cocktails & a Convo on Investing in Women ](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918) | [PowerToFly](https://powertofly.com) & [Square 1 Bank](https://www.square1bank.com/careers/) | The Capital Grille <br /> 9101 International Drive 32819 | 5:15PM - 7:15PM | [RSVP](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918)
 [HBO Special Networking Party](http://www.homeboxoffice.com/email/GHC17/1356017_HR_GHC2017-BOOTH-DESIGN-INITIATIVE_SaveTheDate_Resume_FINAL.html) | [HBO](https://hbocareers.com) | Upon RSVP | 7PM - 9PM | [Email HBO](mailto:ghc17@hbo.com) resume & reasons for attendance
 [iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Upon RSVP | Evening | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform)
 
@@ -52,6 +56,12 @@ Event	                 | Company       | Location     | Time	   | Notes
 * Discounted [Walt Disney Theme Park & Special Event Tickets](https://www.mydisneygroup.com/ghc2017)
 * [GHC Socials](https://ghc.anitaborg.org/2017-attend/conference-overview/community-socials/) (no RSVP required)
 * [GHC Friday Night Celebration](https://www.eiseverywhere.com/ehome/index.php?eventid=212774&tabid=556987&cid=1738254&sessionid=16963516&sessionchoice=1&) (no RSVP required)
+
+### Private Events
+This will be used as reference 
+* Target scholars
+* Google scholars & interns
+* [Codess](http://www.codess.net) by Microsoft
 
 ## GHC-recruitment Initiatives
 
@@ -83,6 +93,7 @@ Event	                 | Date          | Location     | Time
 [San Francisco Systers Pre-GHC Meetup](https://www.eventbrite.com/e/2017-san-francisco-systers-pre-ghc-meetup-sponsored-by-google-tickets-37551380189) | Wed, Sep 20 | Google San Francisco <br /> 55 Spear St <br /> San Franciso, CA 94105 | 6PM-9PM
 [Kirkland-Seattle Systers Pre-GHC Meetup](https://www.eventbrite.com/e/2017-kirkland-seattle-systers-pre-ghc-meetup-sponsored-by-google-tickets-37534467603) | Wed, Sep 20 | Google Kirkland <br /> 747 6th St S <br /> Kirkland, WA 98033 | 6PM-9PM
 [New York Systers Pre-GHC Meetup](https://www.eventbrite.com/e/2017-new-york-systers-pre-ghc-meetup-sponsored-by-google-tickets-37715071795) | Wed, Sep 20 | Google New York <br /> 111 8th Avenue <br /> New York, NY 10011 | 6PM-9PM
+[Women in Tech](https://womenintechghcmixer.splashthat.com/?sf114942656=1) | Wed, Sep 27 | 1455 Market Street STE 600 <br /> San Francisco, CA 94103 | 5:30PM - 7:30PM
 [ABI.Chicago Viewing Party](https://local.anitaborg.org/event/ghc2017-extended-abi-chicago/) | Tue, Oct 10 | Morningstar <br /> 22 W. Washington St., 7th Fl. <br /> Chicago, IL 60602 | 6PM-8:30PM 
 [ABI.Portland Viewing Party](https://local.anitaborg.org/event/abi-portland-ghc-viewing-party/) | Tue, Oct 10 | Lewis & Clark College <br /> 0615 SW Palatine Hill Rd <br /> Portland, OR 97219 | 7PM-9PM
 [ABI.Seattle Viewing Party](https://local.anitaborg.org/event/abi-seattle-presents-ghc-2017-viewing-party/) | Thu, Oct 12 | Amazon Meeting Center <br /> 2031 7th Avenue <br /> Seattle, WA 98121 | 12:30PM-7PM
