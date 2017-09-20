@@ -18,6 +18,7 @@ All events are free and located in Orlando, FL unless otherwise noted.
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
 [Meet Coinbase](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) | [Coinbase](https://www.coinbase.com/careers?locale=en) | Upon RSVP | Tuesday, Oct 3 <br /> Wednesday, Oct 4 <br /> Thursday, Oct 5 | 7:30PM <br /> 12PM & 6:30PM <br /> 9AM & 5PM | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) or [email Amy Yin](mailto:amy.yin@coinbase.com)
+[Breakfast with LadyEng](https://ladyeng.uber.com/ghc) | [Uber](https://www.uber.com/en-CA/careers) | Orange County Convention Center <br /> 9800 International Drive 32819 | Tuesday, Oct 3 <br /> Wednesday, Oct 4 | Breakfast | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSf-vQL1JlvPLfoll8PYv2VmEKo7fujTCcYkRNkmrgZiv9wE2A/viewform) for 1-on-1 chats
 [Connect with APT](https://www.linkedin.com/pulse/connect-apt-grace-hopper-2017-kate-esterman) | [APT](https://www.predictivetechnologies.com/en/careers) | Upon RSVP | Multiple | Lunch, Dinners & More | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdRbuikkOPZ-0O2K8UfxsD3wZbDNatHUc5uKnRmIjTaHvDHJw/viewform) or [email](mailto:GHC@aptmail.com)
 [Slack Events](https://slackghc2017.splashthat.com/) | [Slack](https://slack.com/jobs) & <br /> [Lesbians Who Tech](https://lesbianswhotech.org/) | Upon RSVP | Wednesday, Oct 4 <br /> Friday, Oct 6 | Evening <br /> Afternoon | [RSVP](https://slackghc2017.splashthat.com/)
 
@@ -36,7 +37,6 @@ Event	                 | Company       | Location     | Time	   | Notes
 [Women in Tech Happy Hour](https://netflixatgracehopper.splashthat.com/?em=537) | [Netflix](https://jobs.netflix.com/jobs) | The Castle Hotel <br /> 8629 International Dr. 32819| 6PM - 8PM | [RSVP](https://netflixatgracehopper.splashthat.com/?em=537) with passcode #NetflixLeadingLadies 
 [RIT Grade Hopper Alumnae/Student Reception](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0) | [RIT Alumni Association](https://www.rit.edu/alumni/careers) | Bahama Breeze <br /> 8849 International Dr. 32819 | 6PM - 8PM | [RSVP](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0)
 [Gophers Dinner](https://docs.google.com/forms/d/e/1FAIpQLSdCmBM4BuwKUxMUFMlrYqwk3v_t6mW5IZ1XJ0UyMldEffcW6A/viewform) | [Kaylyn Gibilterra](https://twitter.com/kgibilterra) | Evening | Upon RSVP | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdCmBM4BuwKUxMUFMlrYqwk3v_t6mW5IZ1XJ0UyMldEffcW6A/viewform)
-[Breakfast chats with LadyEng](https://ladyeng.uber.com/ghc) | Uber | Orange County Convention Center | Tuesday, Oct 3  or,<br /> Wednesday, Oct 4 |  [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSf-vQL1JlvPLfoll8PYv2VmEKo7fujTCcYkRNkmrgZiv9wE2A/viewform)
 
 ### Thursday, October 5
 Event	                 | Company       | Location     | Time	   | Notes        
@@ -44,6 +44,7 @@ Event	                 | Company       | Location     | Time	   | Notes
 [Allstate Grace Hopper Breakfast](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378) | [Allstate Insurance Company](https://www.allstate.com/careers.aspx) | Rosen Center Hotel <br /> Salons 3 on the Mezzanine Level <br /> 9840 International Dr. 32819 | 8AM - 9AM | [RSVP](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378)
 [CMU Grace Hopper Meetup](https://cmughc2017.splashthat.com) | [Carnegie Mellon University](http://www.cmu.edu/student-admission/index.html) | Tapa Toro <br /> 8441 International Drive 32819 | 5PM - 7PM | [RSVP](https://cmughc2017.splashthat.com) for CMU alumni, students, faculty, staff & parents
 [Cocktails & a Convo on Investing in Women ](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918) | [PowerToFly](https://powertofly.com) & [Square 1 Bank](https://www.square1bank.com/careers/) | The Capital Grille <br /> 9101 International Drive 32819 | 5:15PM - 7:15PM | [RSVP](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918)
+[Uber Engineering Mixer](https://uberghcmixer.splashthat.com/) | [Uber](https://www.uber.com/en-CA/careers) | Rosen Centre Hotel <br /> Grand Ballroom A <br /> 9840 International Drive 32819 | 6PM - 8PM | [RSVP](https://uberghcmixer.splashthat.com/)
 [HBO Special Networking Party](http://www.homeboxoffice.com/email/GHC17/1356017_HR_GHC2017-BOOTH-DESIGN-INITIATIVE_SaveTheDate_Resume_FINAL.html) | [HBO](https://hbocareers.com) | Upon RSVP | 7PM - 9PM | [Email HBO](mailto:ghc17@hbo.com) resume & reasons for attendance
 [iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Upon RSVP | Evening | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform)
 
@@ -84,6 +85,8 @@ This will be used as reference
 * [Symantec’s Capture the Flag competition](https://symantec.cyberskills.io/events/dde77416da522becb338/register)
 * [Tenable](https://www.youtube.com/watch?v=In72VXOg_ls)
 * [Twitter](http://twitteratghc17.splashthat.com/LISC)
+* [Uber](https://www.uber.com/en-CA/careers/?iisc=Event&iisn=GHC&iis=GHC17)
+* [Uber's LadyEng](https://ladyeng.uber.com/ghc)
 * [Walmart](https://walmart.recsolu.com/external/events/NvZFs8hPUJVLrK5nNV-jKQ)
 
 ## GHC-related Events
