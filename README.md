@@ -22,13 +22,10 @@ Event	                 | Company       | Location     | Date        | Time	   | 
 [Connect with APT](https://www.linkedin.com/pulse/connect-apt-grace-hopper-2017-kate-esterman) | [APT](https://www.predictivetechnologies.com/en/careers) | Upon RSVP | Multiple | Lunch, Dinners & More | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdRbuikkOPZ-0O2K8UfxsD3wZbDNatHUc5uKnRmIjTaHvDHJw/viewform) or [email](mailto:GHC@aptmail.com)
 [Slack Events](https://slackghc2017.splashthat.com/) | [Slack](https://slack.com/jobs) & <br /> [Lesbians Who Tech](https://lesbianswhotech.org/) | Upon RSVP | Wednesday, Oct 4 <br /> Friday, Oct 6 | Evening <br /> Afternoon | [RSVP](https://slackghc2017.splashthat.com/)
 
-
-
 ### Tuesday, October 3
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Networking Happy Hour](https://www.eventbrite.com/e/grace-hopper-classpass-happy-hour-tickets-37809698827) | [ClassPass](https://classpass.com/jobs) | Mikado Japanese Steakhouse Terrace <br /> World Center Marriott <br /> 8701 World Center Dr 32821 | 7PM - 10PM | [RSVP](https://www.eventbrite.com/e/grace-hopper-classpass-happy-hour-tickets-37809698827) or [email](mailto:acarlisle@classpass.com)
-
 
 ### Wednesday, October 4
 Event	                 | Company       | Location     | Time	   | Notes        
@@ -44,7 +41,9 @@ Event	                 | Company       | Location     | Time	   | Notes
 [Allstate Grace Hopper Breakfast](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378) | [Allstate Insurance Company](https://www.allstate.com/careers.aspx) | Rosen Center Hotel <br /> Salons 3 on the Mezzanine Level <br /> 9840 International Dr. 32819 | 8AM - 9AM | [RSVP](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378)
 [CMU Grace Hopper Meetup](https://cmughc2017.splashthat.com) | [Carnegie Mellon University](http://www.cmu.edu/student-admission/index.html) | Tapa Toro <br /> 8441 International Drive 32819 | 5PM - 7PM | [RSVP](https://cmughc2017.splashthat.com) for CMU alumni, students, faculty, staff & parents
 [Cocktails & a Convo on Investing in Women ](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918) | [PowerToFly](https://powertofly.com) & [Square 1 Bank](https://www.square1bank.com/careers/) | The Capital Grille <br /> 9101 International Drive 32819 | 5:15PM - 7:15PM | [RSVP](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918)
+[Cornell Reunion](http://www.wherevent.com/detail/Women-in-Computing-Grace-Hopper-Cornell-Reunion) | [Cornell Women in Computing](https://www.facebook.com/CornellWomenInComputing/) | Hyatt Regency Orlando <br /> 9801 International Dr 32819 | 5:30PM - 7:30PM | [RSVP](http://www.wherevent.com/detail/Women-in-Computing-Grace-Hopper-Cornell-Reunion) for Cornell alumni & students
 [Uber Engineering Mixer](https://uberghcmixer.splashthat.com/) | [Uber](https://www.uber.com/en-CA/careers) | Rosen Centre Hotel <br /> Grand Ballroom A <br /> 9840 International Drive 32819 | 6PM - 8PM | [RSVP](https://uberghcmixer.splashthat.com/)
+[Breaking the Glass Ceiling in the Tech World](https://twitter.com/kelhutch17/status/910280242303975424) | [Intuit](http://careers.intuit.com/) | Upon RSVP | 6PM - 8PM | [RSVP](https://www.surveymonkey.com/r/K5RD7WS)
 [HBO Special Networking Party](http://www.homeboxoffice.com/email/GHC17/1356017_HR_GHC2017-BOOTH-DESIGN-INITIATIVE_SaveTheDate_Resume_FINAL.html) | [HBO](https://hbocareers.com) | Upon RSVP | 7PM - 9PM | [Email HBO](mailto:ghc17@hbo.com) resume & reasons for attendance
 [iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Upon RSVP | Evening | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform)
 
@@ -68,10 +67,11 @@ This will be used as reference
 
 ## GHC-recruitment Initiatives
 
-### Company Webinars
+### Company Online Events
 * [Ericsson's Virtual Open House](https://app.brazenconnect.com/events/45ywK): September 13 @ 11:30 AM - 1:30 PM CDT
 * [Microsoft Careers Live](https://www.facebook.com/events/358828177908493): September 18 @ 10AM - 10:15AM PDT
-* [Appirio Webinar](https://global.gotomeeting.com/join/790071925): September 26 @ 3:30 - 4:15pm (EDT)
+* [Turney Careers Twitter Chat](https://twitter.com/TurnerCareers/status/910524605588279298): September 21, 2PM - 3PM EST
+* [Appirio Webinar](https://global.gotomeeting.com/join/790071925): September 26 @ 3:30 - 4:15pm EDT
 
 ### Company Career Pages
 * [Accenture](https://www.accenture.com/us-en/blogs/blogs-experience-future-tech-today?src=GHG)
