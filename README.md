@@ -22,6 +22,7 @@ Event	                 | Company       | Location     | Date        | Time	   | 
 [Slack Events](https://slackghc2017.splashthat.com/) | [Slack](https://slack.com/jobs) & <br /> [Lesbians Who Tech](https://lesbianswhotech.org/) | Upon RSVP | Wednesday, Oct 4 <br /> Friday, Oct 6 | Evening <br /> Afternoon | [RSVP](https://slackghc2017.splashthat.com/)
 
 
+
 ### Tuesday, October 3
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
@@ -35,6 +36,7 @@ Event	                 | Company       | Location     | Time	   | Notes
 [Women in Tech Happy Hour](https://netflixatgracehopper.splashthat.com/?em=537) | [Netflix](https://jobs.netflix.com/jobs) | The Castle Hotel <br /> 8629 International Dr. 32819| 6PM - 8PM | [RSVP](https://netflixatgracehopper.splashthat.com/?em=537) with passcode #NetflixLeadingLadies 
 [RIT Grade Hopper Alumnae/Student Reception](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0) | [RIT Alumni Association](https://www.rit.edu/alumni/careers) | Bahama Breeze <br /> 8849 International Dr. 32819 | 6PM - 8PM | [RSVP](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0)
 [Gophers Dinner](https://docs.google.com/forms/d/e/1FAIpQLSdCmBM4BuwKUxMUFMlrYqwk3v_t6mW5IZ1XJ0UyMldEffcW6A/viewform) | [Kaylyn Gibilterra](https://twitter.com/kgibilterra) | Evening | Upon RSVP | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdCmBM4BuwKUxMUFMlrYqwk3v_t6mW5IZ1XJ0UyMldEffcW6A/viewform)
+[Breakfast chats with LadyEng](https://ladyeng.uber.com/ghc) | Uber | Orange County Convention Center | Tuesday, Oct 3  or,<br /> Wednesday, Oct 4 |  [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSf-vQL1JlvPLfoll8PYv2VmEKo7fujTCcYkRNkmrgZiv9wE2A/viewform)
 
 ### Thursday, October 5
 Event	                 | Company       | Location     | Time	   | Notes        
