@@ -50,7 +50,7 @@ Event	                 | Company       | Location     | Time	   | Notes
 ### Friday, October 6
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-| | | |
+[Stripe - Coffee & Crepes](https://stripe.com/events/crepes2017) | [Stripe](https://stripe.com/jobs) | Orlando Eye <br />  8401 International Dr. 32819 | 9AM - 11AM | [RSVP](https://stripe.com/events/crepes2017)
 
 ### Additional Events
 * [Attend GHC17 details](https://ghc.anitaborg.org/2017-attend/)
