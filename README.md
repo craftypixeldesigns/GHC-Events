@@ -17,6 +17,7 @@ All events are free and located in Orlando, FL unless otherwise noted.
 ### Multiple Days
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
+[GoDaddy Breakfast](https://gh2017.co/events) | [GoDaddy](https://gh2017.co/career-opportunities) | Hyatt Regency Orlando <br /> Suite 22132 <br />  9801 International Dr 32819 | Wednesday, Oct 4 <br /> Thursday, Oct 5 <br /> Frday, Oct 6 | 8AM - 8:45AM | Stop by at the lounge
 [Meet Coinbase](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) | [Coinbase](https://www.coinbase.com/careers?locale=en) | Upon RSVP | Tuesday, Oct 3 <br /> Wednesday, Oct 4 <br /> Thursday, Oct 5 | 7:30PM <br /> 12PM & 6:30PM <br /> 9AM & 5PM | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfdr64uAmiydqoCoFNs-iE2aB9taXgZLOU4Q4IpuPOF05iwoA/viewform) or [email Amy Yin](mailto:amy.yin@coinbase.com)
 [Breakfast with LadyEng](https://ladyeng.uber.com/ghc) | [Uber](https://www.uber.com/en-CA/careers) | Orange County Convention Center <br /> 9800 International Drive 32819 | Tuesday, Oct 3 <br /> Wednesday, Oct 4 | Breakfast | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSf-vQL1JlvPLfoll8PYv2VmEKo7fujTCcYkRNkmrgZiv9wE2A/viewform) for 1-on-1 chats
 [Connect with APT](https://www.linkedin.com/pulse/connect-apt-grace-hopper-2017-kate-esterman) | [APT](https://www.predictivetechnologies.com/en/careers) | Upon RSVP | Multiple | Lunch, Dinners & More | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdRbuikkOPZ-0O2K8UfxsD3wZbDNatHUc5uKnRmIjTaHvDHJw/viewform) or [email](mailto:GHC@aptmail.com)
@@ -30,7 +31,9 @@ Event	                 | Company       | Location     | Time	   | Notes
 ### Wednesday, October 4
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Senior Technical Women's Lunch](https://www.eventbrite.com/e/sr-technical-womens-lunch-tickets-37707205266) | [GoDaddy](https://gh2017.co/career-opportunities) | Hyatt Regency Orlando <br /> Suite 22132 <br />  9801 International Dr 32819 | 12PM - 1PM | [RSVP](https://www.eventbrite.com/e/sr-technical-womens-lunch-tickets-37707205266)
 [Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP | 3:30PM - 5:00PM | [Email Ashley Monseth](mailto:ashley.monseth@target.com) 
+[Navigating Change Happy Hour](https://www.eventbrite.com/e/navigating-change-sr-womens-lounge-tickets-37663492520) | [GoDaddy](https://gh2017.co/career-opportunities) | Hyatt Regency Orlando <br /> Suite 22132 <br />  9801 International Dr 32819 | 5:30PM - 6:30PM | [RSVP](https://www.eventbrite.com/e/navigating-change-sr-womens-lounge-tickets-37663492520)
 [Women in Tech Happy Hour](https://netflixatgracehopper.splashthat.com/?em=537) | [Netflix](https://jobs.netflix.com/jobs) | The Castle Hotel <br /> 8629 International Dr. 32819| 6PM - 8PM | [RSVP](https://netflixatgracehopper.splashthat.com/?em=537) with passcode #NetflixLeadingLadies 
 [RIT Grade Hopper Alumnae/Student Reception](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0) | [RIT Alumni Association](https://www.rit.edu/alumni/careers) | Bahama Breeze <br /> 8849 International Dr. 32819 | 6PM - 8PM | [RSVP](http://alumni.rit.edu/s/1624/index.aspx?sid=1624&pgid=3534&gid=1&cid=5104&ecid=5104&post_id=0)
 [Gophers Dinner](https://docs.google.com/forms/d/e/1FAIpQLSdCmBM4BuwKUxMUFMlrYqwk3v_t6mW5IZ1XJ0UyMldEffcW6A/viewform) | [Kaylyn Gibilterra](https://twitter.com/kgibilterra) | Evening | Upon RSVP | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdCmBM4BuwKUxMUFMlrYqwk3v_t6mW5IZ1XJ0UyMldEffcW6A/viewform)
@@ -39,6 +42,7 @@ Event	                 | Company       | Location     | Time	   | Notes
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Allstate Grace Hopper Breakfast](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378) | [Allstate Insurance Company](https://www.allstate.com/careers.aspx) | Rosen Center Hotel <br /> Salons 3 on the Mezzanine Level <br /> 9840 International Dr. 32819 | 8AM - 9AM | [RSVP](https://www.eventbrite.com/e/allstate-grace-hopper-breakfast-tickets-37399990378)
+[So You Want to be an Executive?](https://www.eventbrite.com/e/so-you-want-to-be-an-executive-sr-womens-lounge-tickets-37701562388) | [GoDaddy](https://gh2017.co/career-opportunities) | Hyatt Regency Orlando <br /> Suite 22132 <br />  9801 International Dr 32819 | 4PM - 5PM | [RSVP](https://www.eventbrite.com/e/so-you-want-to-be-an-executive-sr-womens-lounge-tickets-37701562388)
 [CMU Grace Hopper Meetup](https://cmughc2017.splashthat.com) | [Carnegie Mellon University](http://www.cmu.edu/student-admission/index.html) | Tapa Toro <br /> 8441 International Drive 32819 | 5PM - 7PM | [RSVP](https://cmughc2017.splashthat.com) for CMU alumni, students, faculty, staff & parents
 [Cocktails & a Convo on Investing in Women ](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918) | [PowerToFly](https://powertofly.com) & [Square 1 Bank](https://www.square1bank.com/careers/) | The Capital Grille <br /> 9101 International Drive 32819 | 5:15PM - 7:15PM | [RSVP](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918)
 [Cornell Reunion](http://www.wherevent.com/detail/Women-in-Computing-Grace-Hopper-Cornell-Reunion) | [Cornell Women in Computing](https://www.facebook.com/CornellWomenInComputing/) | Hyatt Regency Orlando <br /> 9801 International Dr 32819 | 5:30PM - 7:30PM | [RSVP](http://www.wherevent.com/detail/Women-in-Computing-Grace-Hopper-Cornell-Reunion) for Cornell alumni & students
@@ -46,6 +50,7 @@ Event	                 | Company       | Location     | Time	   | Notes
 [Breaking the Glass Ceiling in the Tech World](https://twitter.com/kelhutch17/status/910280242303975424) | [Intuit](http://careers.intuit.com/) | Upon RSVP | 6PM - 8PM | [RSVP](https://www.surveymonkey.com/r/K5RD7WS)
 [HBO Special Networking Party](http://www.homeboxoffice.com/email/GHC17/1356017_HR_GHC2017-BOOTH-DESIGN-INITIATIVE_SaveTheDate_Resume_FINAL.html) | [HBO](https://hbocareers.com) | Upon RSVP | 7PM - 9PM | [Email HBO](mailto:ghc17@hbo.com) resume & reasons for attendance
 [iOS Dinner](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Upon RSVP | Evening | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLScP_kMUq9HnE7cuTyayBmxESB7yjGL4SdQ_jn83iTwpsJHFBQ/viewform)
+[Data Meetup: Demystifying Data Careers](https://www.surveymonkey.com/r/GHC17DataMeetup) | [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Facebook](http://www.facebook.jobs/), [Synopsys](https://www.synopsys.com/company/synopsys-careers.html) & [Insight Data Science](http://insightdatascience.com/jobs) | Upon RSVP | Evening | [RSVP](https://www.surveymonkey.com/r/GHC17DataMeetup)
 
 ### Friday, October 6
 Event	                 | Company       | Location     | Time	   | Notes        
@@ -78,6 +83,7 @@ This will be used as reference
 * [Appirio](https://app.jobvite.com/TalentNetwork/action/campaign/w/MzMyMTg)
 * [Dell](http://dell.avature.net/diversity?jobId=13668)
 * [Ericsson](https://ericsson.yournextstep.com/users/sign_up?direct=qCPqztPHDXkxMPyx)
+* [GoDaddy](https://gh2017.co/career-opportunities)
 * [Honeywell](https://honeywell.csod.com/ats/careersite/JobDetails.aspx?id=113212)
 * [Jet Propulsion Laboratory](https://experienced-jpl.icims.com/connect?eventId=44543) & [JPL Students](https://students-jpl.icims.com/connect?eventId=44543)
 * [Microsoft](https://msftghc17.splashthat.com) & [Recruiting Event](https://ghcrecruitingevent.splashthat.com/)
