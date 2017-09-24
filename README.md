@@ -75,13 +75,14 @@ This will be used as reference
 ### Company Online Events
 * [Ericsson's Virtual Open House](https://app.brazenconnect.com/events/45ywK): September 13 @ 11:30 AM - 1:30 PM CDT
 * [Microsoft Careers Live](https://www.facebook.com/events/358828177908493): September 18 @ 10AM - 10:15AM PDT
-* [Turney Careers Twitter Chat](https://twitter.com/TurnerCareers/status/910524605588279298): September 21, 2PM - 3PM EST
+* [Turner Careers Twitter Chat](https://twitter.com/TurnerCareers/status/910524605588279298): September 21, 2PM - 3PM EST
 * [Appirio Webinar](https://global.gotomeeting.com/join/790071925): September 26 @ 3:30 - 4:15pm EDT
 
 ### Company Career Pages
 * [Accenture](https://www.accenture.com/us-en/blogs/blogs-experience-future-tech-today?src=GHG)
 * [Appirio](https://app.jobvite.com/TalentNetwork/action/campaign/w/MzMyMTg)
 * [Dell](http://dell.avature.net/diversity?jobId=13668)
+* [Dropbox](https://dropboxatghc17.splashthat.com/)
 * [Ericsson](https://ericsson.yournextstep.com/users/sign_up?direct=qCPqztPHDXkxMPyx)
 * [GoDaddy](https://gh2017.co/career-opportunities)
 * [Honeywell](https://honeywell.csod.com/ats/careersite/JobDetails.aspx?id=113212)
@@ -90,9 +91,11 @@ This will be used as reference
 * [Pixar](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Interviews---Grace-Hopper-Celebration_R-01537)
 * [Symantec’s Capture the Flag competition](https://symantec.cyberskills.io/events/dde77416da522becb338/register)
 * [Tenable](https://www.youtube.com/watch?v=In72VXOg_ls)
+* [Turner](https://twitter.com/TurnerCareers/status/910947681656242176)
 * [Twitter](http://twitteratghc17.splashthat.com/LISC)
 * [Uber](https://www.uber.com/en-CA/careers/?iisc=Event&iisn=GHC&iis=GHC17)
 * [Uber's LadyEng](https://ladyeng.uber.com/ghc)
+* [ViaSat](https://www.youtube.com/playlist?list=PLDgme8lj7Xnw43IY2M_cSxS5elLuWpwgl)
 * [Walmart](https://walmart.recsolu.com/external/events/NvZFs8hPUJVLrK5nNV-jKQ)
 
 ## GHC-related Events
