@@ -70,10 +70,12 @@ Event	                 | Company       | Location     | Time	   | Notes
 * [GHC Friday Night Celebration](https://www.eiseverywhere.com/ehome/index.php?eventid=212774&tabid=556987&cid=1738254&sessionid=16963516&sessionchoice=1&) (no RSVP required)
 
 ### Private Events
-This will be used as reference 
-* Target scholars
-* Google scholars & interns
+This will be used as reference for invite-only events
 * [Codess](http://www.codess.net) by Microsoft
+* Google scholars & interns
+* Lyft networkng mixer
+* Snap Inc. evening event
+* Target scholars
 
 ## GHC-recruitment Initiatives
 
