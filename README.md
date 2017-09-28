@@ -102,6 +102,7 @@ This will be used as reference for invite-only events
 * [Twitter](http://twitteratghc17.splashthat.com/LISC)
 * [Uber](https://www.uber.com/en-CA/careers/?iisc=Event&iisn=GHC&iis=GHC17)
 * [Uber's LadyEng](https://ladyeng.uber.com/ghc)
+* [Veritas Technologies](https://veritas.recsolu.com/external/events/UmxySS0A57mxDpmW_3IL2A)
 * [ViaSat](https://www.youtube.com/playlist?list=PLDgme8lj7Xnw43IY2M_cSxS5elLuWpwgl)
 * [Walmart](https://walmart.recsolu.com/external/events/NvZFs8hPUJVLrK5nNV-jKQ)
 
