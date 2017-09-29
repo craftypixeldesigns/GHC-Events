@@ -123,6 +123,8 @@ Event	                 | Date          | Location     | Time
 [Kirkland-Seattle Systers Pre-GHC Meetup](https://www.eventbrite.com/e/2017-kirkland-seattle-systers-pre-ghc-meetup-sponsored-by-google-tickets-37534467603) | Wed, Sep 20 | Google Kirkland <br /> 747 6th St S <br /> Kirkland, WA 98033 | 6PM-9PM
 [New York Systers Pre-GHC Meetup](https://www.eventbrite.com/e/2017-new-york-systers-pre-ghc-meetup-sponsored-by-google-tickets-37715071795) | Wed, Sep 20 | Google New York <br /> 111 8th Avenue <br /> New York, NY 10011 | 6PM-9PM
 [Women in Tech](https://womenintechghcmixer.splashthat.com/?sf114942656=1) | Wed, Sep 27 | 1455 Market Street STE 600 <br /> San Francisco, CA 94103 | 5:30PM - 7:30PM
+[ABI.SV Viewing Party](https://local.anitaborg.org/event/abi-sv-grace-hopper-celebration-viewing-party/) | Wed, Oct 4 | Paypal <br /> 2211 N 1st St <br /> San Jose, CA 95131 | 6PM-9PM
+[ABI.SV Viewing Party](https://local.anitaborg.org/event/abi-sv-grace-hopper-celebration-viewing-party/) | Fri, Oct 6 | SurveyMonkey <br /> 1 Curiosity Way <br /> San Mateo, CA 94403 | 11:30AM-3PM
 [ABI.Chicago Viewing Party](https://local.anitaborg.org/event/ghc2017-extended-abi-chicago/) | Tue, Oct 10 | Morningstar <br /> 22 W. Washington St., 7th Fl. <br /> Chicago, IL 60602 | 6PM-8:30PM 
 [ABI.Portland Viewing Party](https://local.anitaborg.org/event/abi-portland-ghc-viewing-party/) | Tue, Oct 10 | Lewis & Clark College <br /> 0615 SW Palatine Hill Rd <br /> Portland, OR 97219 | 7PM-9PM
 [ABI.Seattle Viewing Party](https://local.anitaborg.org/event/abi-seattle-presents-ghc-2017-viewing-party/) | Thu, Oct 12 | Amazon Meeting Center <br /> 2031 7th Avenue <br /> Seattle, WA 98121 | 12:30PM-7PM
