@@ -71,6 +71,7 @@ Build skills with Amazon: Alexa Skills Workshop | [Amazon](https://www.amazon.jo
 [HBO Special Networking Party](http://www.homeboxoffice.com/email/GHC17/1356017_HR_GHC2017-BOOTH-DESIGN-INITIATIVE_SaveTheDate_Resume_FINAL.html) | [HBO](https://hbocareers.com) | Upon RSVP | 7PM - 9PM | [Email HBO](mailto:ghc17@hbo.com) resume & reasons for attendance
 [iOS Dinner](https://iosghc17.splashthat.com/?gz=8240577a35b67533b5efd96cf1ff0128&pp=1) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Cuba Libre Restaurant & Rum Bar <br /> 9101 International Drive 32819 | Starts 6PM | [RSVP](https://iosghc17.splashthat.com/?gz=8240577a35b67533b5efd96cf1ff0128&pp=1) with passcode CODABLE to secure a spot until 6:30PM, seats are FCFS
 [Data Meetup: Demystifying Data Careers](https://www.surveymonkey.com/r/GHC17DataMeetup) | [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Facebook](http://www.facebook.jobs/), [Synopsys](https://www.synopsys.com/company/synopsys-careers.html) & [Insight Data Science](http://insightdatascience.com/jobs) | Upon RSVP | Evening | [RSVP](https://www.surveymonkey.com/r/GHC17DataMeetup)
+[Dinner with Plaid](https://dinnerwithplaid.splashthat.com/) | [Plaid](https://plaid.com/careers/) | [The Ravenous Pig](http://www.theravenouspig.com/) | 7:30PM - 10PM | [RSVP](https://dinnerwithplaid.splashthat.com/) - Confirmation Required
 
 ### Friday, October 6
 Event	                 | Company       | Location     | Time	   | Notes        
@@ -121,6 +122,7 @@ This will be used as reference for invite-only events
 * [Opentext](https://blogs.opentext.com/redefining-woman-tech/?utm_campaign=employeeadvocacy&utm_source=everyonesocial&utm_medium=twitter&es_p=5056827)
 * [Paypal](https://paypal.recsolu.com/external/events/4LVOyJeV4Sz9ZvM1mEpYCg)
 * [Pixar](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Interviews---Grace-Hopper-Celebration_R-01537)
+* [Plaid](https://plaid.com/careers/)
 * [Square Capture the Flag competition](https://squarectf.com/)
 * [Symantec’s Capture the Flag competition](https://symantec.cyberskills.io/events/dde77416da522becb338/register)
 * [Tenable](https://www.youtube.com/watch?v=In72VXOg_ls)
