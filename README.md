@@ -12,7 +12,7 @@ West Building
 [9800 International Drive  
 Orlando, FL 32819](https://www.openstreetmap.org/search?query=Orange%20County%20Convention%20Centre#map=16/28.4248/-81.4693)
 
-All events are free and located in Orlando, FL unless otherwise noted.  
+All events are free and located in Orlando, FL unless otherwise noted. Please double check the times!
 
 ### Multiple Days
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
@@ -27,11 +27,13 @@ Event	                 | Company       | Location     | Date        | Time	   | 
 ### Tuesday, October 3
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Expedia Happy Hour](https://www.eventbrite.com/o/expedia-university-recruiting-team-15274433792) | [Expedia](https://lifeatexpedia.com) | DoubleTree by Hilton <br /> 10100 International Dr 32821 | 4PM - 6PM | FCFS or [RSVP](https://www.eventbrite.com/o/expedia-university-recruiting-team-15274433792)
 [Networking Happy Hour](https://www.eventbrite.com/e/grace-hopper-classpass-happy-hour-tickets-37809698827) | [ClassPass](https://classpass.com/jobs) | Mikado Japanese Steakhouse Terrace <br /> World Center Marriott <br /> 8701 World Center Dr 32821 | 7PM - 10PM | [RSVP](https://www.eventbrite.com/e/grace-hopper-classpass-happy-hour-tickets-37809698827) or [email](mailto:acarlisle@classpass.com)
 
 ### Wednesday, October 4
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
+[WhatsApp Meetup](http://whatsappatghc17.splashthat.com/GHC17) | [WhatsApp](https://www.whatsapp.com/join/) |  Rosen Center Hotel <br /> Executive Ballroom H <br /> 9840 International Dr. 32819 | 11AM - 12:30PM | [RSVP](http://whatsappatghc17.splashthat.com/GHC17)
 [Senior Technical Women's Lunch](https://www.eventbrite.com/e/sr-technical-womens-lunch-tickets-37707205266) | [GoDaddy](https://gh2017.co/career-opportunities) | Hyatt Regency Orlando <br /> Suite 22132 <br />  9801 International Dr 32819 | 12PM - 1PM | [RSVP](https://www.eventbrite.com/e/sr-technical-womens-lunch-tickets-37707205266)
 [Women in Tech Workshop](https://www.linkedin.com/pulse/women-tech-workshop-grace-hopper-sponsored-target-ashley-monseth) | [Target](https://www.codewithtarget.com) | Upon RSVP | 3:30PM - 5:00PM | [Email Ashley Monseth](mailto:ashley.monseth@target.com) 
 [BuzzFeed Hopper Hour](https://buzzfeedpresentshopperhour.splashthat.com/) | [BuzzFeed](https://www.buzzfeed.com/about/jobs) | Blue Martini Lounge <br /> #1182 - 9101 International Dr 32819 | 5PM - 7PM | [RSVP](https://buzzfeedpresentshopperhour.splashthat.com/)
@@ -64,20 +66,27 @@ Build skills with Amazon: Alexa Skills Workshop | [Amazon](https://www.amazon.jo
 [Cocktails & a Convo on Investing in Women](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918) | [PowerToFly](https://powertofly.com) & [Square 1 Bank](https://www.square1bank.com/careers/) | The Capital Grille <br /> 9101 International Drive 32819 | 5:15PM - 7:15PM | [RSVP](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918)
 [Roche Technology Networking Reception](https://www.eventbrite.com/e/roche-technology-networking-reception-tickets-37927877302) | [Roche Sequencing Solutions](http://sequencing.roche.com/en/careers.html) | Spencer's Outdoor Patio <br /> Hilton Orlando <br /> 6001 Destination Parkway 32819 | 5:30PM - 7:30PM | [RSVP](https://www.eventbrite.com/e/roche-technology-networking-reception-tickets-37927877302)
 [NCWIT Alliance Member Reception](https://www.eventbrite.com/e/2017-ncwit-alliance-member-reception-at-ghc-registration-36761532734) | [National Center for Women & Information Technology](https://www.ncwit.org/jobs-ncwit) | Rosen Centre - Signature Room 2 <br /> 9840 International Dr 32819 | 6PM - 7:30PM | [RSVP](https://www.eventbrite.com/e/2017-ncwit-alliance-member-reception-at-ghc-registration-36761532734) for NCWIT alliance members & those interested to becoming members
+[Veritas Networking Mixer](https://veritas.recsolu.com/external/events/hw3aqe6RkOm67PvXtndBkQ) | [Veritas Technologies](https://www.veritas.com/about/careers) | Margaritaville Orlando Restaurant <br /> Universal City Walk, Jimmy Buffet | 6000 Universal Studios Plaza #704, Orlando, FL 32819 | 6PM - 9PM | [RSVP](https://veritas.recsolu.com/external/events/hw3aqe6RkOm67PvXtndBkQ)
 [Shopify @ GHC](https://www.eventbrite.ca/e/shopify-ghc-tickets-38055886180) | [Shopify](https://www.shopify.com/careers) | Upon RSVP | 5:30PM - 6:30PM <br /> 6:30PM - 7:30PM | [RSVP](https://www.eventbrite.ca/e/shopify-ghc-tickets-38055886180). Hands-on workshop, childcare & dinner available for kids 6-11 years
 [Cornell Reunion](http://www.wherevent.com/detail/Women-in-Computing-Grace-Hopper-Cornell-Reunion) | [Cornell Women in Computing](https://www.facebook.com/CornellWomenInComputing/) | Hyatt Regency Orlando <br /> 9801 International Dr 32819 | 5:30PM - 7:30PM | [RSVP](http://www.wherevent.com/detail/Women-in-Computing-Grace-Hopper-Cornell-Reunion) for Cornell alumni & students
 [Uber Engineering Mixer](https://uberghcmixer.splashthat.com/) | [Uber](https://www.uber.com/en-CA/careers) | Rosen Centre Hotel <br /> Grand Ballroom A <br /> 9840 International Drive 32819 | 6PM - 8PM | [RSVP](https://uberghcmixer.splashthat.com/)
 [Breaking the Glass Ceiling in the Tech World](https://twitter.com/kelhutch17/status/910280242303975424) | [Intuit](http://careers.intuit.com/) | Upon RSVP | 6PM - 8PM | [RSVP](https://www.surveymonkey.com/r/K5RD7WS)
 [HBO Special Networking Party](http://www.homeboxoffice.com/email/GHC17/1356017_HR_GHC2017-BOOTH-DESIGN-INITIATIVE_SaveTheDate_Resume_FINAL.html) | [HBO](https://hbocareers.com) | Upon RSVP | 7PM - 9PM | [Email HBO](mailto:ghc17@hbo.com) resume & reasons for attendance
+[Dinner with Plaid](https://dinnerwithplaid.splashthat.com/) | [Plaid](https://plaid.com/careers/) | [The Ravenous Pig](http://www.theravenouspig.com/) | 7:30PM - 10PM | [RSVP](https://dinnerwithplaid.splashthat.com/) - Confirmation Required
 [iOS Dinner](https://iosghc17.splashthat.com/?gz=8240577a35b67533b5efd96cf1ff0128&pp=1) | [iOS at GHC](https://twitter.com/iOSatGHC), [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Patreon](https://www.patreon.com/careers), [Twilio](https://www.twilio.com/company/jobs) & [Twitter](https://careers.twitter.com/en.html) | Cuba Libre Restaurant & Rum Bar <br /> 9101 International Drive 32819 | Starts 6PM | [RSVP](https://iosghc17.splashthat.com/?gz=8240577a35b67533b5efd96cf1ff0128&pp=1) with passcode CODABLE to secure a spot until 6:30PM, seats are FCFS
 [Data Meetup: Demystifying Data Careers](https://www.surveymonkey.com/r/GHC17DataMeetup) | [Apple](https://www.apple.com/jobs/us/), [Intuit](http://careers.intuit.com/), [Facebook](http://www.facebook.jobs/), [Synopsys](https://www.synopsys.com/company/synopsys-careers.html) & [Insight Data Science](http://insightdatascience.com/jobs) | Upon RSVP | Evening | [RSVP](https://www.surveymonkey.com/r/GHC17DataMeetup)
-[Dinner with Plaid](https://dinnerwithplaid.splashthat.com/) | [Plaid](https://plaid.com/careers/) | [The Ravenous Pig](http://www.theravenouspig.com/) | 7:30PM - 10PM | [RSVP](https://dinnerwithplaid.splashthat.com/) - Confirmation Required
 
 ### Friday, October 6
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Stripe - Coffee & Crepes](https://stripe.com/events/crepes2017) | [Stripe](https://stripe.com/jobs) | Orlando Eye <br />  8401 International Dr. 32819 | 9AM - 11AM | [RSVP](https://stripe.com/events/crepes2017)
+[Research @ Facebook Panel](https://fbghcresearchpanel17.splashthat.com/) | [Facebook](http://www.facebook.jobs/) |  Rosen Center Hotel <br /> Executive Ballroom H <br /> 9840 International Dr. 32819 | 10AM - 11AM | [RSVP](https://fbghcresearchpanel17.splashthat.com/)
 [Blend Happy Hour](https://www.eventbrite.com/e/blend-happy-hour-at-grace-hopper-tickets-38376894324) | [Blend](https://blend.com/careers/) | Lafayette Music Room - Orlando <br /> #2220 9101 International Drive 32819 | 5:30PM - 7:30PM | [RSVP](https://www.eventbrite.com/e/blend-happy-hour-at-grace-hopper-tickets-38376894324)
+
+### Saturday, October 7
+Event	                 | Company       | Location     | Time	   | Notes        
+:---------------------:| ------------- | ------------ | -------- | ------------
+[Lunch with GitHub Campus Experts](https://www.eventbrite.com/e/lunch-with-github-campus-experts-tickets-38441739277) | [GitHub](https://jobs.github.com/positions) | Maggiano's Little Italy <br /> 9101 International Dr Suite 2400 32819 | 12PM - 2PM | [RSVP](https://www.eventbrite.com/e/lunch-with-github-campus-experts-tickets-38441739277)
 
 ### Additional Events
 * [Attend GHC17 details](https://ghc.anitaborg.org/2017-attend/)
@@ -91,9 +100,11 @@ Event	                 | Company       | Location     | Time	   | Notes
 This will be used as reference for invite-only events
 * [Codess](http://www.codess.net) by Microsoft
 * Google scholars & interns
+* HP (Sea world)
 * Lyft networkng mixer
 * Snap Inc. evening event
 * Target scholars
+* Visa
 
 ## GHC-recruitment Initiatives
 
