@@ -69,6 +69,7 @@ Build skills with Amazon: Alexa Skills Workshop | [Amazon](https://www.amazon.jo
 [Veritas Networking Mixer](https://veritas.recsolu.com/external/events/hw3aqe6RkOm67PvXtndBkQ) | [Veritas Technologies](https://www.veritas.com/about/careers) | Margaritaville Orlando Restaurant <br /> Universal City Walk, Jimmy Buffet | 6000 Universal Studios Plaza #704, Orlando, FL 32819 | 6PM - 9PM | [RSVP](https://veritas.recsolu.com/external/events/hw3aqe6RkOm67PvXtndBkQ)
 [Shopify @ GHC](https://www.eventbrite.ca/e/shopify-ghc-tickets-38055886180) | [Shopify](https://www.shopify.com/careers) | Upon RSVP | 5:30PM - 6:30PM <br /> 6:30PM - 7:30PM | [RSVP](https://www.eventbrite.ca/e/shopify-ghc-tickets-38055886180). Hands-on workshop, childcare & dinner available for kids 6-11 years
 [Cornell Reunion](http://www.wherevent.com/detail/Women-in-Computing-Grace-Hopper-Cornell-Reunion) | [Cornell Women in Computing](https://www.facebook.com/CornellWomenInComputing/) | Hyatt Regency Orlando <br /> 9801 International Dr 32819 | 5:30PM - 7:30PM | [RSVP](http://www.wherevent.com/detail/Women-in-Computing-Grace-Hopper-Cornell-Reunion) for Cornell alumni & students
+[Dinner with Robinhood](https://docs.google.com/forms/d/e/1FAIpQLSdmHfvYOjQWUSCrH0V-RXsEvZeROWfLqfdvkBSfyKX-QgdCuQ/viewform) | [Robinhood](https://www.robinhood.com/careers/) | Upon RSVP | 6PM - 8PM | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdmHfvYOjQWUSCrH0V-RXsEvZeROWfLqfdvkBSfyKX-QgdCuQ/viewform) - Confirmation Required
 [Uber Engineering Mixer](https://uberghcmixer.splashthat.com/) | [Uber](https://www.uber.com/en-CA/careers) | Rosen Centre Hotel <br /> Grand Ballroom A <br /> 9840 International Drive 32819 | 6PM - 8PM | [RSVP](https://uberghcmixer.splashthat.com/)
 [Breaking the Glass Ceiling in the Tech World](https://twitter.com/kelhutch17/status/910280242303975424) | [Intuit](http://careers.intuit.com/) | Upon RSVP | 6PM - 8PM | [RSVP](https://www.surveymonkey.com/r/K5RD7WS)
 [HBO Special Networking Party](http://www.homeboxoffice.com/email/GHC17/1356017_HR_GHC2017-BOOTH-DESIGN-INITIATIVE_SaveTheDate_Resume_FINAL.html) | [HBO](https://hbocareers.com) | Upon RSVP | 7PM - 9PM | [Email HBO](mailto:ghc17@hbo.com) resume & reasons for attendance
@@ -137,6 +138,7 @@ This will be used as reference for invite-only events
 * [Paypal](https://paypal.recsolu.com/external/events/4LVOyJeV4Sz9ZvM1mEpYCg)
 * [Pixar](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Interviews---Grace-Hopper-Celebration_R-01537)
 * [Plaid](https://plaid.com/careers/)
+* [Robinhood](https://www.robinhood.com/careers/)
 * [Square Capture the Flag competition](https://squarectf.com/)
 * [Symantec’s Capture the Flag competition](https://symantec.cyberskills.io/events/dde77416da522becb338/register)
 * [Tenable](https://www.youtube.com/watch?v=In72VXOg_ls)
