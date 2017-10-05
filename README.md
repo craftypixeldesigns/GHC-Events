@@ -58,13 +58,13 @@ Event	                 | Company       | Location     | Time	   | Notes
 Amazon Future Engineers Information Session | [Amazon](https://www.amazon.jobs/) | Rosen Center Hotel <br /> SIG 2 <br /> 9840 International Dr. 32819 | 11AM - 12PM | FCFS geared for Freshman and Sophomores interested in Software Development internships
 [#EmpowHERment](https://twitterghc17.splashthat.com/?em=537) | [Twitter](https://careers.twitter.com/en.html) | Rosen Plaza Hotel <br /> Ballroom A <br /> 9700 International Drive 32819 | 12:30PM - 1:30PM | [RSVP](https://twitterghc17.splashthat.com/?em=537) 
 Intern Software Development Online Assessment Workshop | [Amazon](https://www.amazon.jobs/) | Rosen Center Hotel <br /> SIG 2 <br /> 9840 International Dr. 32819 | 1PM - 2PM | FCFS geared for those taking the Amazon Software Development internship Online Assessment
-Build skills with Amazon: Alexa Skills Workshop | [Amazon](https://www.amazon.jobs/) | Rosen Center Hotel <br /> Executive Ballroom I <br /> 9840 International Dr. 32819 | Starts at 4PM | FCFS (arrive early as seating is limited). No experience necessary, laptops are helpful but not required
 [So You Want to be an Executive?](https://www.eventbrite.com/e/so-you-want-to-be-an-executive-sr-womens-lounge-tickets-37701562388) | [GoDaddy](https://gh2017.co/career-opportunities) | Hyatt Regency Orlando <br /> Suite 22132 <br />  9801 International Dr 32819 | 4PM - 5PM | [RSVP](https://www.eventbrite.com/e/so-you-want-to-be-an-executive-sr-womens-lounge-tickets-37701562388)
 [CMU Grace Hopper Meetup](https://cmughc2017.splashthat.com) | [Carnegie Mellon University](http://www.cmu.edu/student-admission/index.html) | Tapa Toro <br /> 8441 International Drive 32819 | 5PM - 7PM | [RSVP](https://cmughc2017.splashthat.com) for CMU alumni, students, faculty, staff & parents
 [Women of Color Hop Up](https://womenofcolorhopup.splashthat.com/) | [Google & Youtube](https://careers.google.com/) | 3NINE At The Plaza <br/> 9700 International Drive 32819 | 5PM - 7:30PM | [RSVP](https://womenofcolorhopup.splashthat.com/) for Women of color in tech
 [Twitch Event](https://docs.google.com/forms/d/e/1FAIpQLSfU_JwoHyaBpbiqh_Eyd2fikANKAnORN_UFedJN_WOLipaLmw/viewform) | [Twitch](https://www.twitch.tv/p/jobs/) | Upon RSVP | 5PM - 7PM | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfU_JwoHyaBpbiqh_Eyd2fikANKAnORN_UFedJN_WOLipaLmw/viewform)
 [Cocktails & a Convo on Investing in Women](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918) | [PowerToFly](https://powertofly.com) & [Square 1 Bank](https://www.square1bank.com/careers/) | The Capital Grille <br /> 9101 International Drive 32819 | 5:15PM - 7:15PM | [RSVP](https://www.eventbrite.com/e/cocktails-and-a-conversation-on-investing-in-women-during-grace-hopper-tickets-37762253918)
 [Roche Technology Networking Reception](https://www.eventbrite.com/e/roche-technology-networking-reception-tickets-37927877302) | [Roche Sequencing Solutions](http://sequencing.roche.com/en/careers.html) | Spencer's Outdoor Patio <br /> Hilton Orlando <br /> 6001 Destination Parkway 32819 | 5:30PM - 7:30PM | [RSVP](https://www.eventbrite.com/e/roche-technology-networking-reception-tickets-37927877302)
+Build skills with Amazon: Alexa Skills Workshop | [Amazon](https://www.amazon.jobs/) | Rosen Center Hotel <br /> Executive Ballroom I <br /> 9840 International Dr. 32819 | Starts at 5:30PM | FCFS (arrive early as seating is limited). No experience necessary, laptops are helpful but not required
 [NCWIT Alliance Member Reception](https://www.eventbrite.com/e/2017-ncwit-alliance-member-reception-at-ghc-registration-36761532734) | [National Center for Women & Information Technology](https://www.ncwit.org/jobs-ncwit) | Rosen Centre - Signature Room 2 <br /> 9840 International Dr 32819 | 6PM - 7:30PM | [RSVP](https://www.eventbrite.com/e/2017-ncwit-alliance-member-reception-at-ghc-registration-36761532734) for NCWIT alliance members & those interested to becoming members
 [Veritas Networking Mixer](https://veritas.recsolu.com/external/events/hw3aqe6RkOm67PvXtndBkQ) | [Veritas Technologies](https://www.veritas.com/about/careers) | Margaritaville Orlando Restaurant <br /> Universal City Walk, Jimmy Buffet | 6000 Universal Studios Plaza #704, Orlando, FL 32819 | 6PM - 9PM | [RSVP](https://veritas.recsolu.com/external/events/hw3aqe6RkOm67PvXtndBkQ)
 [Shopify @ GHC](https://www.eventbrite.ca/e/shopify-ghc-tickets-38055886180) | [Shopify](https://www.shopify.com/careers) | Upon RSVP | 5:30PM - 6:30PM <br /> 6:30PM - 7:30PM | [RSVP](https://www.eventbrite.ca/e/shopify-ghc-tickets-38055886180). Hands-on workshop, childcare & dinner available for kids 6-11 years
@@ -106,8 +106,10 @@ This will be used as reference for invite-only events
 * Google scholars & interns
 * HP (Sea world)
 * Lyft networkng mixer
+* Nike
 * Snap Inc. evening event
 * Target scholars
+* Twitter breakfast
 * Visa
 
 ## GHC-recruitment Initiatives
