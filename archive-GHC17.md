@@ -101,16 +101,23 @@ Event	                 | Company       | Location     | Time	   | Notes
 
 ### Private Events
 This will be used as reference for invite-only events
-* Airbnb
+* Airbnb (evening)
+* Accenture (breakfast)
 * [Codess](http://www.codess.net) by Microsoft
-* Google scholars & interns
+* EBay (evening)
+* GE (evening)
+* Google scholars & interns (evening)
 * HP (Sea world)
-* Lyft networkng mixer
-* Nike
-* Snap Inc. evening event
+* Linkedin Speed Mentoring (evening)
+* Lyft networking mixer (evening)
+* Nationwide (breakfast)
+* Nike (evening)
+* Pixar (evening)
+* Snap Inc. (evening)
 * Target scholars
-* Twitter breakfast
-* Visa
+* Twitter (breakfast)
+* Visa (evening)
+* Women Techmakers (evening at Epcot)
 
 ## GHC-recruitment Initiatives
 
