@@ -9,7 +9,7 @@ For more, read [Optimizing the Grace Hopper Celebration Experience](https://medi
 GHC 2018 is held at:  
 **[George R. Brown Convention Center](http://www.grbhouston.com/)**  
 1001 Avenida de las Americas 
-Houston, TX 77010](https://www.openstreetmap.org/search?query=George%20R.%20Brown%20Convention%20Center#map=17/29.75212/-95.35784)
+[Houston, TX 77010](https://www.openstreetmap.org/search?query=George%20R.%20Brown%20Convention%20Center#map=17/29.75212/-95.35784)
 
 All events are free and located in Houston, TX unless otherwise noted. Please double check the times!
 
