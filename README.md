@@ -25,7 +25,7 @@ Event	                 | Company       | Location     | Date        | Time	   | 
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
 
-### Friday, September 38
+### Friday, September 28
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
 
