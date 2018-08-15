@@ -26,7 +26,7 @@ TBD | Netflix | TBD | Wed Sept 26 | 6:00pm |  [RSVP](https://netflixgh2018.splas
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
 
-### Friday, September 38
+### Friday, September 28
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
 
