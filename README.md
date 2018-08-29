@@ -1,7 +1,7 @@
 # GHC-Events
 Comprehensive list of events, receptions, and parties hosted by companies at the Grace Hopper Celebration for Women in Computing. Events are held in October to provide networking opportunities for GHC attendees. 
 
-**Contribute** by sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing [hello@misscarriemah.ca](mailto:hello@misscarriemah.ca). Remember that sharing is caring (my handle is [@missCarrieMah](twitter.com/misscarriemah))
+**Contribute** by sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing [cengdinsel@gmail.com](mailto:cengdinsel@gmail.com). Remember that sharing is caring (my handle is [@iheartagile](twitter.com/iheartagile)) 
 
 ## 2018 GHC Events
 For more, read [Optimizing the Grace Hopper Celebration Experience](https://medium.com/@missCarrieMah/optimizing-the-grace-hopper-celebration-experience-726d624a0733)
