@@ -33,7 +33,7 @@ Houston Startup Demo Day: Women Founders Edition | Softeq,<br/>BBVA Compass | St
 ### Thursday, September 27
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
-Tech Talk/Mix and Mingle with The Federal Reserve Bank | BWISE and The Federal Reserve Bank | The Federal Reserve Bank Of Dallas - Houston Branch<br/>1801 Allen Parkway | Thurs Sept 27 | 3:00pm - 7:00pm | [RSVP](https://www.eventbrite.com/e/bwise-presentstech-talkmix-and-mingle-with-the-federal-reserve-bank-tickets-49191685656)
+Tech Talk/Mix and Mingle with The Federal Reserve Bank | BWISE,<br/>The Federal Reserve Bank | The Federal Reserve Bank Of Dallas - Houston Branch<br/>1801 Allen Parkway | Thurs Sept 27 | 3:00pm - 7:00pm | [RSVP](https://www.eventbrite.com/e/bwise-presentstech-talkmix-and-mingle-with-the-federal-reserve-bank-tickets-49191685656)
 GHC Social Hour | Pariveda Solutions | Handlebar<br/>5219 Washington Ave | Thurs Sept 27 | 5:30pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/pariveda-solutions-ghc-social-hour-tickets-47430754664)
 Networking Dinner | HomeAway | Hyatt Regency Houston<br/>1200 Louisiana Street<br/>Arboretum Conference Rooms | Thurs Sept 27 | 6:30pm - 10:30pm | [RSVP](https://www.eventbrite.com/e/ghc18-homeaway-networking-dinner-tickets-48463043267)
 Cocktails & Conversation | HBO | TBD | Thurs Sept 27 | 6:30pm - 9:00pm | [Event invite](http://www.homeboxoffice.com/email/SaveTheDate_GHC2018/HR_GHC_SaveTheDate_FINAL.html)
