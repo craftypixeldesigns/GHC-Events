@@ -22,6 +22,7 @@ Senior Women's Lounge | GoDaddy | Four Seasons Hotel Houston<br/>1300 Lamar Stre
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
 Netflix Happy Hour| Netflix | Vinoteca at the Four Seasons<br/>1300 Lamar St | Wed Sept 26 | 6:00pm | [RSVP](https://netflixgh2018.splashthat.com/?em=537&guest-access-hash=MzA4MTY1M3wxODQwNTM2OTd8MTUzMjQ3MjE5OTswYjg3NWFhZWU0MzIxNmFkOTkyNDg2YzM2MTIzZWQwMjgxNzU5MDE5MjQyZjQyNGZkOTk4NjU2MDJhNTVmNDE5)<br/>Original RSVP is closed. 8/28/18<br/>Networking, food, drinks, and demo stations.|
+Houston Startup Demo Day: Women Founders Edition | Softeq and BBVA Compass | Station Houston<br/>1301 Fannin Street, Suite 2440 | Wed Sept 26 | 6:00pm - 8:00pm | [RSVP](https://www.eventbrite.com/e/houston-startup-demo-day-women-founders-edition-tickets-48350418403)
 
 ### Thursday, September 27
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
