@@ -18,6 +18,11 @@ Event	                 | Company       | Location     | Date        | Time	   | 
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
 Senior Women's Lounge | GoDaddy | Four Seasons Hotel Houston<br/>1300 Lamar Street | Wed Sept 26<br/>Thurs Sept 27<br/>Fri, Sept 28 | Various times | [RSVP](https://www.eventbrite.com/e/godaddy-senior-womens-lounge-ghc18-tickets-48562509774) for different events<br/>Limited tickets available
 
+### Tuesday, September 25
+Event	                 | Company       | Location     | Date        | Time	   | Notes        
+:---------------------:| ------------- | ------------ | ----------- | -------- | ------------
+Station Startup Gigs| Station Houston | Station Houston<br/>1301 Fannin Street #2440 | Tue Sept 25 | 5:30pm - 7:00pm | [RSVP](https://www.eventbrite.com/e/station-startup-gigs-tickets-48165894487)
+
 ### Wednesday, September 26
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
