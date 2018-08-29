@@ -20,7 +20,7 @@ Event	                 | Company       | Location     | Date        | Time	   | 
 ### Wednesday, September 26
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
-Netflix Happy Hour| Netflix | TBD | Wed Sept 26 | 6:00pm | Vinoteca at the Four Seasons; 1300 Laamar St;  Houston [RSVP](https://netflixgh2018.splashthat.com/?em=537&guest-access-hash=MzA4MTY1M3wxODQwNTM2OTd8MTUzMjQ3MjE5OTswYjg3NWFhZWU0MzIxNmFkOTkyNDg2YzM2MTIzZWQwMjgxNzU5MDE5MjQyZjQyNGZkOTk4NjU2MDJhNTVmNDE5)
+Netflix Happy Hour| Netflix | Vinoteca at the Four Seasons; 1300 Lamar St;  Houston | Wed Sept 26 | 6:00pm | Vinoteca at the Four Seasons; 1300 Lamar St;  Houston | [RSVP](https://netflixgh2018.splashthat.com/?em=537&guest-access-hash=MzA4MTY1M3wxODQwNTM2OTd8MTUzMjQ3MjE5OTswYjg3NWFhZWU0MzIxNmFkOTkyNDg2YzM2MTIzZWQwMjgxNzU5MDE5MjQyZjQyNGZkOTk4NjU2MDJhNTVmNDE5) Original RSVP is full. 8/28/18|
 
 ### Thursday, September 27
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
