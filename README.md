@@ -28,7 +28,7 @@ Event	                 | Company       | Location     | Date        | Time	   | 
 :---------------------:| ------------- | ------------ | ----------- | -------- | ------------
 Netflix Happy Hour| Netflix | Vinoteca at the Four Seasons<br/>1300 Lamar St | Wed Sept 26 | 4:00pm - 7:00pm | [RSVP](https://netflixgh2018.splashthat.com/?em=537&guest-access-hash=MzA4MTY1M3wxODQwNTM2OTd8MTUzMjQ3MjE5OTswYjg3NWFhZWU0MzIxNmFkOTkyNDg2YzM2MTIzZWQwMjgxNzU5MDE5MjQyZjQyNGZkOTk4NjU2MDJhNTVmNDE5)<br/>Original RSVP is closed. 8/28/18<br/>Networking, food, drinks, and demo stations.|
 Wine, Women, and Tech: The After Party | Queens Brunch | WeWork<br/>708 South Main Street | Wed Sept 26 | 5:30pm - 8:30pm | [RSVP](https://www.eventbrite.com/e/wine-women-and-tech-the-after-party-tickets-49378238641)
-Houston Startup Demo Day: Women Founders Edition | Softeq and BBVA Compass | Station Houston<br/>1301 Fannin Street #2440 | Wed Sept 26 | 6:00pm - 8:00pm | [RSVP](https://www.eventbrite.com/e/houston-startup-demo-day-women-founders-edition-tickets-48350418403)
+Houston Startup Demo Day: Women Founders Edition | Softeq,<br/>BBVA Compass | Station Houston<br/>1301 Fannin Street #2440 | Wed Sept 26 | 6:00pm - 8:00pm | [RSVP](https://www.eventbrite.com/e/houston-startup-demo-day-women-founders-edition-tickets-48350418403)
 
 ### Thursday, September 27
 Event	                 | Company       | Location     | Date        | Time	   | Notes        
@@ -37,7 +37,7 @@ Tech Talk/Mix and Mingle with The Federal Reserve Bank | BWISE and The Federal R
 GHC Social Hour | Pariveda Solutions | Handlebar<br/>5219 Washington Ave | Thurs Sept 27 | 5:30pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/pariveda-solutions-ghc-social-hour-tickets-47430754664)
 Networking Dinner | HomeAway | Hyatt Regency Houston<br/>1200 Louisiana Street<br/>Arboretum Conference Rooms | Thurs Sept 27 | 6:30pm - 10:30pm | [RSVP](https://www.eventbrite.com/e/ghc18-homeaway-networking-dinner-tickets-48463043267)
 Cocktails & Conversation | HBO | TBD | Thurs Sept 27 | 6:30pm - 9:00pm | [Event invite](http://www.homeboxoffice.com/email/SaveTheDate_GHC2018/HR_GHC_SaveTheDate_FINAL.html)
-Women in Tech Showcase | Bunker Labs Houston<br/>Houston AnitaB.org Community<br/>GotSpot, Inc. | Social Graces Social Club<br/>#131 1201 Fannin St | Thurs Sept 27 | 5:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-showcase-an-evening-with-anitaborg-and-bunker-labs-houston-september-2018-tickets-48415043699)
+Women in Tech Showcase | Bunker Labs Houston,<br/>Houston AnitaB.org Community,<br/>GotSpot Inc. | Social Graces Social Club<br/>#131 1201 Fannin St | Thurs Sept 27 | 5:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-showcase-an-evening-with-anitaborg-and-bunker-labs-houston-september-2018-tickets-48415043699)
 Creative Arts, Tech, and Music | Houston Tech Talks | The Downtown Club at The Met<br/>340 West Dallas Street | Thurs Sept 27 | 5:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/creative-arts-tech-and-music-by-houston-tech-talks-tickets-48820758202)
 
 ### Friday, September 28
