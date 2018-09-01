@@ -60,4 +60,5 @@ For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alterna
 Event	                 | Date          | Location     | Time	           
 :---------------------:| ------------- | ------------ | -------- 
 
+
 Inspired by [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
