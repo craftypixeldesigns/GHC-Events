@@ -57,8 +57,8 @@ Event	                 | Company       | Location     | Date        | Time	   | 
 ## GHC-related Events
 For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alternatives](https://code.likeagirl.io/diversity-in-tech-conferences-grace-hopper-celebration-alternatives-bd9c8d01e18d)
 
-Event	                 | Date          | Location     | Time	           
+Event	                 | Date          | Location     | Notes	           
 :---------------------:| ------------- | ------------ | -------- 
-
+LinkedIn Mentoring Sessions | Wed 26, Thu 27, Fri 28 Sep 2018 | Grace Hopper Conference 1001 Avenida De Las Americas, Houston, TX | [Apply to attend](https://linkedinmentoringsessionsatghc.splashthat.com/?em=537&guest-access-hash=MzEyMDgzOHwxODg2NDEzNjB8MTUzNTc1NzQxODtmOWYzYTFlNzIzNWEzZWVlMWUyM2FmNmQ3NWFlZWU1ZTdiNzM2ZGE4OWMxNzZkNDEyZmFmNDA1ZjA5ODUxNjg4)
 
 Inspired by [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
