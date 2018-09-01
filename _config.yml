@@ -1,9 +1,2 @@
 theme: jekyll-theme-hacker
 index_page: README.md
-
-# Build settings
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  hard_wrap: false
