@@ -64,5 +64,9 @@ For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alterna
 * [GHC India](https://ghcindia.anitab.org/)
 * [AnitaB.org Houston Highlights Women Technologists](https://community.anitab.org/event/houston-anitab-highlights-women-technologists/)
 * [AnitaB.org Chicago GHC Viewing Party](https://community.anitab.org/event/ghc2017-extended-abi-chicago/)
+* [Sysers Pre-GHC Meetup sponsored by Google - New York](http://www.cvent.com/events/systers-pre-ghc-meetup-new-york-ny-sponsored-by-google/event-summary-7b0fc477cbed42f0abdbc3c1839232d0.aspx)
+* [Sysers Pre-GHC Meetup sponsored by Google - Kirkland](http://www.cvent.com/events/systers-pre-ghc-meetup-kirkland-wa-sponsored-by-google/event-summary-9224b00b7b2c4961a09360038007966a.aspx)
+* [Sysers Pre-GHC Meetup sponsored by Google - Mountain View](http://www.cvent.com/events/systers-pre-ghc-meetup-mountain-view-ca-sponsored-by-google/event-summary-b98a0bc36eab4fe6b033cd13d99a3b78.aspx)
+* [Sysers Pre-GHC Meetup sponsored by Google - Chicago](http://www.cvent.com/events/systers-pre-ghc-meetup-chicago-il-sponsored-by-google/event-summary-aaadfe4fa83a491494a6e9214ec73a5b.aspx)
 
 Inspired by [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
