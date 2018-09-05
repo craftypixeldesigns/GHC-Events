@@ -40,6 +40,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Cocktails & Conversation | HBO | TBD | Thurs Sept 27 | 6:30pm - 9:00pm | [Event invite](http://www.homeboxoffice.com/email/SaveTheDate_GHC2018/HR_GHC_SaveTheDate_FINAL.html)|
 |Women in Tech Showcase | Bunker Labs Houston,<br/>Houston AnitaB.org Community,<br/>GotSpot Inc. | Social Graces Social Club<br/>#131 1201 Fannin St | Thurs Sept 27 | 5:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-showcase-an-evening-with-anitaborg-and-bunker-labs-houston-september-2018-tickets-48415043699)|
 |Creative Arts, Tech, and Music | Houston Tech Talks | The Downtown Club at The Met<br/>340 West Dallas Street | Thurs Sept 27 | 5:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/creative-arts-tech-and-music-by-houston-tech-talks-tickets-48820758202)|
+|Twitter Kickoff Event | Twitter | Warehouse Live<br/>813 Emanuel St | Thurs Sept 27 | 7:00pm - 9:00pm | [RSVP](https://ghc2018.splashthat.com/)|
 |Grace Hopper Happy Hour with Zocdoc | Zocdoc |Grotto Downtown <br/> 1001 Avenida De Las Americas | Thurs Sept 27 | 6:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/grace-hopper-happy-hour-with-zocdoc-tickets-49754987507)|
 
 ### Friday, September 28
