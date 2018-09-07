@@ -46,7 +46,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Kickoff Event | Twitter | Warehouse Live<br/>813 Emanuel St | Thurs Sept 27 | 7:00pm - 9:00pm | [RSVP](https://ghc2018.splashthat.com/)|
 |Happy Hour | Zocdoc |Grotto Downtown <br/> 1001 Avenida De Las Americas | Thurs Sept 27 | 6:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/grace-hopper-happy-hour-with-zocdoc-tickets-49754987507)|
 |Women in Tech Workshop | Target | 501 Crawford Street <br/>Houston, TX 77002 | Thurs Sept 27 | 4:00pm - 6:00pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-workshop-at-grace-hopper-tickets-49675216911) |
-|Networking Session | Amazon | Lawless Spirits & Kitchen<br/>909 Texas Avenue | Thurs Sept 27 | 6:00pm - 8:00pm | [RSVP](https://amazonnetworkingghc.splashthat.com/)|
+|Networking Session | Amazon | Lawless Spirits & Kitchen<br/>909 Texas Avenue | Thurs Sept 27 | 6:00pm - 8:00pm | Invite Only (Please do not share link, per Amazon request|
 
 ### Friday, September 28
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
