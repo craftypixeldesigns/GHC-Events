@@ -46,15 +46,17 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Kickoff Event | Twitter | Warehouse Live<br/>813 Emanuel St | Thurs Sept 27 | 7:00pm - 9:00pm | [RSVP](https://ghc2018.splashthat.com/)|
 |Happy Hour | Zocdoc |Grotto Downtown <br/> 1001 Avenida De Las Americas | Thurs Sept 27 | 6:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/grace-hopper-happy-hour-with-zocdoc-tickets-49754987507)|
 |Women in Tech Workshop | Target | 501 Crawford Street <br/>Houston, TX 77002 | Thurs Sept 27 | 4:00pm - 6:00pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-workshop-at-grace-hopper-tickets-49675216911) |
-|Private Networking Session | Amazon | No Available | Thurs Sept 27 | 6:00pm - 8:00pm | Invite Only (Please do not share link, per Amazon request|
 
 ### Friday, September 28
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
+|Networking Breakfast | Allstate | Le Méridien Houston Downtown<br/>1121 Walker Street<br/>Grand Ballroom 22nd Floor | Fri Sept 28 | 7:00am - 9:00am | [RSVP](https://www.eventbrite.com/e/allstate-grace-hopper-networking-breakfast-tickets-49951574504)
 
 ### Additional Events
 
 ### Private Events
+This will be used as reference for invite-only events
+* Amazon (evening)
 
 ## GHC-recruitment Initiatives
 
@@ -72,6 +74,7 @@ For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alterna
 * [GHC India](https://ghcindia.anitab.org/)
 * [AnitaB.org Houston Highlights Women Technologists](https://community.anitab.org/event/houston-anitab-highlights-women-technologists/)
 * [AnitaB.org Chicago GHC Viewing Party](https://community.anitab.org/event/ghc2017-extended-abi-chicago/)
+* [GHC Connect @ Google - Kirkland](https://ghcconnectkirkland.splashthat.com/)
 * [Sysers Pre-GHC Meetup sponsored by Google - New York](http://www.cvent.com/events/systers-pre-ghc-meetup-new-york-ny-sponsored-by-google/event-summary-7b0fc477cbed42f0abdbc3c1839232d0.aspx)
 * [Sysers Pre-GHC Meetup sponsored by Google - Kirkland](http://www.cvent.com/events/systers-pre-ghc-meetup-kirkland-wa-sponsored-by-google/event-summary-9224b00b7b2c4961a09360038007966a.aspx)
 * [Sysers Pre-GHC Meetup sponsored by Google - Mountain View](http://www.cvent.com/events/systers-pre-ghc-meetup-mountain-view-ca-sponsored-by-google/event-summary-b98a0bc36eab4fe6b033cd13d99a3b78.aspx)
