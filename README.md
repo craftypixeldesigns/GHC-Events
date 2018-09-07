@@ -64,6 +64,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 * [GHC18 companies](https://docs.google.com/spreadsheets/d/16geT2974fip3EXHWCDcfWqKndL7d0nPl3TbRlZuPKGw/edit#gid=0)
 * [Amazon](https://amazonghccareerexporegistratio.splashthat.com/)
 * [Thomson Reuters](https://www.thomsonreuters.com/en/careers/career-events/meet-us-at-ghc.html)
+* [Tesla](https://www.tesla.com/GHC)
 
 ## GHC-related Events
 For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alternatives](https://code.likeagirl.io/diversity-in-tech-conferences-grace-hopper-celebration-alternatives-bd9c8d01e18d)
