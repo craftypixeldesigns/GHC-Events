@@ -18,6 +18,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 |Senior Women's Lounge | GoDaddy | Four Seasons Hotel Houston<br/>1300 Lamar Street | Wed Sept 26<br/>Thurs Sept 27<br/>Fri, Sept 28 | Various times | [RSVP](https://www.eventbrite.com/e/godaddy-senior-womens-lounge-ghc18-tickets-48562509774) for different events<br/>Limited tickets available|
 |Mentoring Sessions | Linkedin | Grace Hopper Conference<br/>1001 Avenida De Las America | Wed Sept 26<br/>Thurs Sept 27<br/>Fri Sept 28 | Various times | [Apply to attend](https://linkedinmentoringsessionsatghc.splashthat.com/)|
+|Coinbase at Grace Hopper 2018 | Coinbase | Multiple locations | Wed Sept 26<br/>Thurs Sept 27 | Various times | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdPEB4ye5Oy2182ueq_zzVg2L9JGiWtzKEtbSa4PuGAPAf_cA/viewform)
 
 ### Tuesday, September 25
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
@@ -31,19 +32,22 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Wine, Women, and Tech: The After Party | Queens Brunch | WeWork<br/>708 South Main Street | Wed Sept 26 | 5:30pm - 8:30pm | [RSVP](https://www.eventbrite.com/e/wine-women-and-tech-the-after-party-tickets-49378238641)<br/>$20|
 |Houston Startup Demo Day: Women Founders Edition | Softeq,<br/>BBVA Compass | Station Houston<br/>1301 Fannin Street #2440 | Wed Sept 26 | 6:00pm - 8:00pm | [RSVP](https://www.eventbrite.com/e/houston-startup-demo-day-women-founders-edition-tickets-48350418403)|
 |Netflix Happy Hour| Netflix | Vinoteca at the Four Seasons<br/>1300 Lamar St | Wed Sept 26 | 6:00pm - 9:00pm | [RSVP](https://netflixgh2018.splashthat.com/?em=537&guest-access-hash=MzA4MTY1M3wxODQwNTM2OTd8MTUzMjQ3MjE5OTswYjg3NWFhZWU0MzIxNmFkOTkyNDg2YzM2MTIzZWQwMjgxNzU5MDE5MjQyZjQyNGZkOTk4NjU2MDJhNTVmNDE5)<br/>Original RSVP is closed. 8/28/18<br/>Networking, food, drinks, and demo stations.|
+|Happy Hour| Publicis.Sapient | Pitch 25 Beer Park<br/>2120 Walker Street | Wed Sept 26 | 6:00pm - 8:00pm | [RSVP](https://www.eventbrite.com/e/ghc-happy-hour-hosted-by-publicissapient-tickets-49894269102?aff=ebdssbdestsearch#tickets)
 
 ### Thursday, September 27
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
-|Tech Talk/Mix and Mingle with The Federal Reserve Bank | BWISE,<br/>The Federal Reserve Bank | The Federal Reserve Bank Of Dallas - Houston Branch<br/>1801 Allen Parkway | Thurs Sept 27 | 3:00pm - 7:00pm | [RSVP](https://www.eventbrite.com/e/bwise-presentstech-talkmix-and-mingle-with-the-federal-reserve-bank-tickets-49191685656)|
-|GHC Social Hour | Pariveda Solutions | Handlebar<br/>5219 Washington Ave | Thurs Sept 27 | 5:30pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/pariveda-solutions-ghc-social-hour-tickets-47430754664)|
+|Tech Talk/Mix and Mingle | BWISE,<br/>The Federal Reserve Bank | The Federal Reserve Bank Of Dallas - Houston Branch<br/>1801 Allen Parkway | Thurs Sept 27 | 3:00pm - 7:00pm | [RSVP](https://www.eventbrite.com/e/bwise-presentstech-talkmix-and-mingle-with-the-federal-reserve-bank-tickets-49191685656)|
+|Social Hour | Pariveda Solutions | Handlebar<br/>5219 Washington Ave | Thurs Sept 27 | 5:30pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/pariveda-solutions-ghc-social-hour-tickets-47430754664)|
 |Networking Dinner | HomeAway | Hyatt Regency Houston<br/>1200 Louisiana Street<br/>Arboretum Conference Rooms | Thurs Sept 27 | 6:30pm - 10:30pm | [RSVP](https://www.eventbrite.com/e/ghc18-homeaway-networking-dinner-tickets-48463043267)|
-|Cocktails & Conversation | HBO | TBD | Thurs Sept 27 | 6:30pm - 9:00pm | [Event invite](http://www.homeboxoffice.com/email/SaveTheDate_GHC2018/HR_GHC_SaveTheDate_FINAL.html)|
+|Cocktails & Conversation | HBO | Firehouse Saloon<br/>5930 Southwest Freeway | Thurs Sept 27 | 6:30pm - 9:00pm | [RSVP by Sep 14](https://www.cvent.com/c/express/4460c46a-d094-40c3-82a0-f2226c362076)|
 |Women in Tech Showcase | Bunker Labs Houston,<br/>Houston AnitaB.org Community,<br/>GotSpot Inc. | Social Graces Social Club<br/>#131 1201 Fannin St | Thurs Sept 27 | 5:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-showcase-an-evening-with-anitaborg-and-bunker-labs-houston-september-2018-tickets-48415043699)|
 |Creative Arts, Tech, and Music | Houston Tech Talks | The Downtown Club at The Met<br/>340 West Dallas Street | Thurs Sept 27 | 5:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/creative-arts-tech-and-music-by-houston-tech-talks-tickets-48820758202)|
-|Twitter Kickoff Event | Twitter | Warehouse Live<br/>813 Emanuel St | Thurs Sept 27 | 7:00pm - 9:00pm | [RSVP](https://ghc2018.splashthat.com/)|
-|Grace Hopper Happy Hour with Zocdoc | Zocdoc |Grotto Downtown <br/> 1001 Avenida De Las Americas | Thurs Sept 27 | 6:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/grace-hopper-happy-hour-with-zocdoc-tickets-49754987507)|
-|Women in Tech Workshop at Grace Hopper | Target | 501 Crawford Street <br/>Houston, TX 77002 | Thurs Sept 27 | 4:00PM - 6:00PM | [RSVP](https://www.eventbrite.com/e/women-in-tech-workshop-at-grace-hopper-tickets-49675216911) |
+|Kickoff Event | Twitter | Warehouse Live<br/>813 Emanuel St | Thurs Sept 27 | 7:00pm - 9:00pm | [RSVP](https://ghc2018.splashthat.com/)|
+|Happy Hour | Zocdoc |Grotto Downtown <br/> 1001 Avenida De Las Americas | Thurs Sept 27 | 6:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/grace-hopper-happy-hour-with-zocdoc-tickets-49754987507)|
+|Women in Tech Workshop | Target | 501 Crawford Street <br/>Houston, TX 77002 | Thurs Sept 27 | 4:00pm - 6:00pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-workshop-at-grace-hopper-tickets-49675216911) |
+|Networking Session | Amazon | Lawless Spirits & Kitchen<br/>909 Texas Avenue | Thurs Sept 27 | 6:00pm - 8:00pm | [RSVP](https://amazonnetworkingghc.splashthat.com/)|
+
 ### Friday, September 28
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
