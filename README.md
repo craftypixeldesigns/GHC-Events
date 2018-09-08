@@ -66,6 +66,7 @@ This will be used as reference for invite-only events
 ### Company Career Pages
 * [GHC18 companies](https://docs.google.com/spreadsheets/d/16geT2974fip3EXHWCDcfWqKndL7d0nPl3TbRlZuPKGw/edit#gid=0)
 * [Amazon](https://amazonghccareerexporegistratio.splashthat.com/)
+* [Qualcomm](https://qualcommghc18.splashthat.com/)
 * [Thomson Reuters](https://www.thomsonreuters.com/en/careers/career-events/meet-us-at-ghc.html)
 * [Tesla](https://www.tesla.com/GHC)
 
