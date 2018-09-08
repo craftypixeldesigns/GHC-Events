@@ -24,6 +24,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 |Station Startup Gigs| Station Houston | Station Houston<br/>1301 Fannin Street #2440 | Tue Sept 25 | 5:30pm - 7:00pm | [RSVP](https://www.eventbrite.com/e/station-startup-gigs-tickets-48165894487)|
+|Make it Mindful| Squarespace | The Houston Event Venue<br/>3118 Harrisburg Blvd | Tue Sept 25 | 6:00pm - 9:00pm | [RSVP](https://makeitmindful.squarespace.com/)|
 
 ### Wednesday, September 26
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
