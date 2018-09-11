@@ -38,6 +38,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 |Tech Talk/Mix and Mingle | BWISE,<br/>The Federal Reserve Bank | The Federal Reserve Bank Of Dallas - Houston Branch<br/>1801 Allen Parkway | Thurs Sept 27 | 3:00pm - 7:00pm | [RSVP](https://www.eventbrite.com/e/bwise-presentstech-talkmix-and-mingle-with-the-federal-reserve-bank-tickets-49191685656)|
+|PROS Networking Reception | PROS | MKT BAR<br/>1001 Austin Street | Thurs Sept 27 | 4:30pm - 6:00pm | [RSVP](https://www.eventbrite.com/e/pros-blaze-networking-reception-tickets-50006749534) | 
 |Social Hour | Pariveda Solutions | Handlebar<br/>5219 Washington Ave | Thurs Sept 27 | 5:30pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/pariveda-solutions-ghc-social-hour-tickets-47430754664)|
 |Networking Dinner | HomeAway | Hyatt Regency Houston<br/>1200 Louisiana Street<br/>Arboretum Conference Rooms | Thurs Sept 27 | 6:30pm - 10:30pm | [RSVP](https://www.eventbrite.com/e/ghc18-homeaway-networking-dinner-tickets-48463043267)|
 |Cocktails & Conversation | HBO | Firehouse Saloon<br/>5930 Southwest Freeway | Thurs Sept 27 | 6:30pm - 9:00pm | [RSVP by Sep 14](https://www.cvent.com/c/express/4460c46a-d094-40c3-82a0-f2226c362076)|
