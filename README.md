@@ -1,5 +1,5 @@
 # GHC-Events
-Comprehensive list of events, receptions, and parties hosted by companies at the Grace Hopper Celebration for Women in Computing. Events are held in September to provide networking opportunities for GHC attendees. This year, a few volunteers will be updating the events list.
+Comprehensive list of events, receptions, and parties hosted by companies at the Grace Hopper Celebration for Women in Computing. Events are held in September to provide networking opportunities for GHC attendees. This year, a few volunteers will be updating the events list. Please do not add events that are invite only.
 
 **Contribute** by sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing [cengdinsel@gmail.com](mailto:cengdinsel@gmail.com). Remember that sharing is caring (my handle is [@iheartagile](twitter.com/iheartagile)) 
 
@@ -39,7 +39,6 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 |Tech Talk/Mix and Mingle | BWISE,<br/>The Federal Reserve Bank | The Federal Reserve Bank Of Dallas - Houston Branch<br/>1801 Allen Parkway | Thurs Sept 27 | 3:00pm - 7:00pm | [RSVP](https://www.eventbrite.com/e/bwise-presentstech-talkmix-and-mingle-with-the-federal-reserve-bank-tickets-49191685656)|
 |Social Hour | Pariveda Solutions | Handlebar<br/>5219 Washington Ave | Thurs Sept 27 | 5:30pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/pariveda-solutions-ghc-social-hour-tickets-47430754664)|
-|Networking Dinner | HomeAway | Hyatt Regency Houston<br/>1200 Louisiana Street<br/>Arboretum Conference Rooms | Thurs Sept 27 | 6:30pm - 10:30pm | [RSVP](https://www.eventbrite.com/e/ghc18-homeaway-networking-dinner-tickets-48463043267)|
 |Cocktails & Conversation | HBO | Firehouse Saloon<br/>5930 Southwest Freeway | Thurs Sept 27 | 6:30pm - 9:00pm | [RSVP by Sep 14](https://www.cvent.com/c/express/4460c46a-d094-40c3-82a0-f2226c362076)|
 |Women in Tech Showcase | Bunker Labs Houston,<br/>Houston AnitaB.org Community,<br/>GotSpot Inc. | Social Graces Social Club<br/>#131 1201 Fannin St | Thurs Sept 27 | 5:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-showcase-an-evening-with-anitaborg-and-bunker-labs-houston-september-2018-tickets-48415043699)|
 |Creative Arts, Tech, and Music | Houston Tech Talks | The Downtown Club at The Met<br/>340 West Dallas Street | Thurs Sept 27 | 5:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/creative-arts-tech-and-music-by-houston-tech-talks-tickets-48820758202)|
@@ -56,7 +55,8 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 
 ### Private Events
 This will be used as reference for invite-only events
-* Amazon (evening)
+- Amazon (evening)
+- Home Away (Sept 27, evening)
 
 ## GHC-recruitment Initiatives
 
