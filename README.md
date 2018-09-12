@@ -52,6 +52,8 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Networking Breakfast | Allstate | Le Méridien Houston Downtown<br/>1121 Walker Street<br/>Grand Ballroom 22nd Floor | Fri Sept 28 | 7:00am - 9:00am | [RSVP](https://www.eventbrite.com/e/allstate-grace-hopper-networking-breakfast-tickets-49951574504)
 
 ### Additional Events
+Disney is hosting a Coding Challenge for GHC18 attendees! Take the challenge online and eligible participants will win an exclusive prize at the GHC Career Fair Booth #6032.
+http://bit.ly/DisneyGHCCode
 
 ### Private Events
 This will be used as reference for invite-only events
