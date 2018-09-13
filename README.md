@@ -24,6 +24,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 |Station Startup Gigs| Station Houston | Station Houston<br/>1301 Fannin Street #2440 | Tue Sept 25 | 5:30pm - 7:00pm | [RSVP](https://www.eventbrite.com/e/station-startup-gigs-tickets-48165894487)|
+|Make it Mindful| Squarespace | The Houston Event Venue<br/>3118 Harrisburg Blvd | Tue Sept 25 | 6:00pm - 9:00pm | [RSVP](https://makeitmindful.squarespace.com/)|
 
 ### Wednesday, September 26
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
@@ -68,6 +69,7 @@ This will be used as reference for invite-only events
 ### Company Career Pages
 * [GHC18 companies](https://docs.google.com/spreadsheets/d/16geT2974fip3EXHWCDcfWqKndL7d0nPl3TbRlZuPKGw/edit#gid=0)
 * [Amazon](https://amazonghccareerexporegistratio.splashthat.com/)
+* [Qualcomm](https://qualcommghc18.splashthat.com/)
 * [Thomson Reuters](https://www.thomsonreuters.com/en/careers/career-events/meet-us-at-ghc.html)
 * [Tesla](https://www.tesla.com/GHC)
 
