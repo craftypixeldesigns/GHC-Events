@@ -48,7 +48,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Kickoff Event | Twitter | Warehouse Live<br/>813 Emanuel St | Thurs Sept 27 | 7:00pm - 9:00pm | [RSVP](https://ghc2018.splashthat.com/)|
 |Happy Hour | Zocdoc |Grotto Downtown <br/> 1001 Avenida De Las Americas | Thurs Sept 27 | 6:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/grace-hopper-happy-hour-with-zocdoc-tickets-49754987507)|
 |Women in Tech Workshop | Target | 501 Crawford Street <br/>Houston, TX 77002 | Thurs Sept 27 | 4:00pm - 6:00pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-workshop-at-grace-hopper-tickets-49675216911) |
-|Audible Game Night | Audible + PowerToFly | The Houston ; 3118 Harrisburg Blvd <br/>Houston, TX 77003 | Thurs Sept 27 | 5:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/exclusive-invite-to-audibles-one-of-a-kind-networking-event-see-why-keep-reading-registration-49848678740) |
+
 
 ### Friday, September 28
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
@@ -63,6 +63,7 @@ http://bit.ly/DisneyGHCCode
 This will be used as reference for invite-only events
 - Amazon (evening)
 - Home Away (Sept 27, evening)
+- Audible Game Night (Sept 27)
 
 ## GHC-recruitment Initiatives
 
