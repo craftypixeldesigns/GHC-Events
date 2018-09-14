@@ -20,6 +20,11 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Mentoring Sessions | Linkedin | Grace Hopper Conference<br/>1001 Avenida De Las America | Wed Sept 26<br/>Thurs Sept 27<br/>Fri Sept 28 | Various times | [Apply to attend](https://linkedinmentoringsessionsatghc.splashthat.com/)|
 |Coinbase at Grace Hopper 2018 | Coinbase | Multiple locations | Wed Sept 26<br/>Thurs Sept 27 | Various times | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdPEB4ye5Oy2182ueq_zzVg2L9JGiWtzKEtbSa4PuGAPAf_cA/viewform)
 
+### Monday, September 24
+|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
+|:---------------------:|---------------|--------------|-------------|---------|-------------|
+|Women in Tech Showcase | Bunker Labs Houston,<br/>Houston AnitaB.org Community,<br/>GotSpot Inc. | Social Graces Social Club<br/>#131 1201 Fannin St | Monday Sept 24 | 5:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-showcase-an-evening-with-anitaborg-and-bunker-labs-houston-september-2018-tickets-48415043699)|
+
 ### Tuesday, September 25
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
@@ -43,7 +48,6 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |PROS Networking Reception | PROS | MKT BAR<br/>1001 Austin Street | Thurs Sept 27 | 4:30pm - 6:00pm | [RSVP](https://www.eventbrite.com/e/pros-blaze-networking-reception-tickets-50006749534) | 
 |Social Hour | Pariveda Solutions | Handlebar<br/>5219 Washington Ave | Thurs Sept 27 | 5:30pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/pariveda-solutions-ghc-social-hour-tickets-47430754664)|
 |Cocktails & Conversation | HBO | Firehouse Saloon<br/>5930 Southwest Freeway | Thurs Sept 27 | 6:30pm - 9:00pm | [RSVP by Sep 14](https://www.cvent.com/c/express/4460c46a-d094-40c3-82a0-f2226c362076)|
-|Women in Tech Showcase | Bunker Labs Houston,<br/>Houston AnitaB.org Community,<br/>GotSpot Inc. | Social Graces Social Club<br/>#131 1201 Fannin St | Thurs Sept 27 | 5:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-showcase-an-evening-with-anitaborg-and-bunker-labs-houston-september-2018-tickets-48415043699)|
 |Creative Arts, Tech, and Music | Houston Tech Talks | The Downtown Club at The Met<br/>340 West Dallas Street | Thurs Sept 27 | 5:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/creative-arts-tech-and-music-by-houston-tech-talks-tickets-48820758202)|
 |Kickoff Event | Twitter | Warehouse Live<br/>813 Emanuel St | Thurs Sept 27 | 7:00pm - 9:00pm | [RSVP](https://ghc2018.splashthat.com/)|
 |Happy Hour | Zocdoc |Grotto Downtown <br/> 1001 Avenida De Las Americas | Thurs Sept 27 | 6:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/grace-hopper-happy-hour-with-zocdoc-tickets-49754987507)|
