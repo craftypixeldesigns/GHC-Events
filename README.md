@@ -23,7 +23,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 ### Monday, September 24
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
-|Women in Tech Showcase | Bunker Labs Houston,<br/>Houston AnitaB.org Community,<br/>GotSpot Inc. | Social Graces Social Club<br/>#131 1201 Fannin St | Monday Sept 24 | 5:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-showcase-an-evening-with-anitaborg-and-bunker-labs-houston-september-2018-tickets-48415043699)|
+|Women in Tech Showcase | Bunker Labs Houston,<br/>Houston AnitaB.org Community,<br/>GotSpot Inc. | Social Graces Social Club<br/>1201 Fannin St, #131 | Mon Sept 24 | 5:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-showcase-an-evening-with-anitaborg-and-bunker-labs-houston-september-2018-tickets-48415043699)|
 
 ### Tuesday, September 25
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
