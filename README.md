@@ -54,6 +54,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 |Networking Breakfast | Allstate | Le Méridien Houston Downtown<br/>1121 Walker Street<br/>Grand Ballroom 22nd Floor | Fri Sept 28 | 7:00am - 9:00am | [RSVP](https://www.eventbrite.com/e/allstate-grace-hopper-networking-breakfast-tickets-49951574504)
+|Snacks and Refresh Sesh | GitHub Campus Experts | Potbelly Sandwich Shop<br/>1200 McKinney St<br/>Houston, TX 77010 | Fri Sept 28 | 3:00pm - 4:30pm | [RSVP](https://www.eventbrite.com/e/snacks-and-refresh-sesh-with-github-campus-experts-tickets-50319558153)
 
 ### Additional Events
 Disney is hosting a Coding Challenge for GHC18 attendees! Take the challenge online and eligible participants will win an exclusive prize at the GHC Career Fair Booth #6032.
