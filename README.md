@@ -38,7 +38,8 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Wine, Women, and Tech: The After Party | Queens Brunch | WeWork<br/>708 South Main Street | Wed Sept 26 | 5:30pm - 8:30pm | [RSVP](https://www.eventbrite.com/e/wine-women-and-tech-the-after-party-tickets-49378238641)<br/>$20|
 |Houston Startup Demo Day: Women Founders Edition | Softeq,<br/>BBVA Compass | Station Houston<br/>1301 Fannin Street #2440 | Wed Sept 26 | 6:00pm - 8:00pm | [RSVP](https://www.eventbrite.com/e/houston-startup-demo-day-women-founders-edition-tickets-48350418403)|
 |Netflix Happy Hour| Netflix | Vinoteca at the Four Seasons<br/>1300 Lamar St | Wed Sept 26 | 6:00pm - 9:00pm | [RSVP](https://netflixgh2018.splashthat.com/?em=537&guest-access-hash=MzA4MTY1M3wxODQwNTM2OTd8MTUzMjQ3MjE5OTswYjg3NWFhZWU0MzIxNmFkOTkyNDg2YzM2MTIzZWQwMjgxNzU5MDE5MjQyZjQyNGZkOTk4NjU2MDJhNTVmNDE5)<br/>Original RSVP is closed. 8/28/18<br/>Networking, food, drinks, and demo stations.|
-|Happy Hour| Publicis.Sapient | Pitch 25 Beer Park<br/>2120 Walker Street | Wed Sept 26 | 6:00pm - 8:00pm | [RSVP](https://www.eventbrite.com/e/ghc-happy-hour-hosted-by-publicissapient-tickets-49894269102?aff=ebdssbdestsearch#tickets)
+|Happy Hour| Publicis.Sapient | Pitch 25 Beer Park<br/>2120 Walker Street | Wed Sept 26 | 6:00pm - 8:00pm | [RSVP](https://www.eventbrite.com/e/ghc-happy-hour-hosted-by-publicissapient-tickets-49894269102?aff=ebdssbdestsearch#tickets)|
+|Beers with Engineers - VMWorld Updates!| Dell EMC | Platypus Brewing<br/>1902 Washington Avenue| Wed Sept 26 | 4:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/beers-with-engineers-vmworld-updates-tickets-50080022696)|
 
 ### Thursday, September 27
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
