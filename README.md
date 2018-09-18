@@ -6,6 +6,9 @@ Comprehensive list of events, receptions, and parties hosted by companies at the
 ## 2018 GHC Events
 For more, read [Optimizing the Grace Hopper Celebration Experience](https://medium.com/@missCarrieMah/optimizing-the-grace-hopper-celebration-experience-726d624a0733)
 
+Tips from PowerToFly:
+https://blog.powertofly.com/grace-hopper-conference-2018-2603846357.html
+
 GHC 2018 is held at:  
 **[George R. Brown Convention Center](http://www.grbhouston.com/)**  
 1001 Avenida de las Americas 
