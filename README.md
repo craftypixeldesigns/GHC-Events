@@ -63,6 +63,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 |Networking Breakfast | Allstate | Le Méridien Houston Downtown<br/>1121 Walker Street<br/>Grand Ballroom 22nd Floor | Fri Sept 28 | 7:00am - 9:00am | [RSVP](https://www.eventbrite.com/e/allstate-grace-hopper-networking-breakfast-tickets-49951574504)
+|Stripe Coffee + Crepes | Stripe | Lake House at Discovery Green <br/> 1600 McKinney Street <br/> Houston, TX 77010| Fri Sept 28 | 9:00am -11:00 am| [RSVP](https://stripe.events/crepes2018)
 |Snacks and Refresh Sesh | GitHub Campus Experts | Potbelly Sandwich Shop<br/>1200 McKinney St<br/>Houston, TX 77010 | Fri Sept 28 | 3:00pm - 4:30pm | [RSVP](https://www.eventbrite.com/e/snacks-and-refresh-sesh-with-github-campus-experts-tickets-50319558153)
 
 ### Additional Events
