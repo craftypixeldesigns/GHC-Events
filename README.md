@@ -85,6 +85,7 @@ This will be used as reference for invite-only events
 * [Qualcomm](https://qualcommghc18.splashthat.com/)
 * [Thomson Reuters](https://www.thomsonreuters.com/en/careers/career-events/meet-us-at-ghc.html)
 * [Tesla](https://www.tesla.com/GHC)
+* [MathWorks](https://www.mathworks.com/GHC)
 
 ## GHC-related Events
 For more, read [Diversity in Tech Conferences & Grace Hopper Celebration Alternatives](https://code.likeagirl.io/diversity-in-tech-conferences-grace-hopper-celebration-alternatives-bd9c8d01e18d)
