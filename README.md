@@ -43,6 +43,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Netflix Happy Hour| Netflix | Vinoteca at the Four Seasons<br/>1300 Lamar St | Wed Sept 26 | 6:00pm - 9:00pm | [RSVP](https://netflixgh2018.splashthat.com/?em=537&guest-access-hash=MzA4MTY1M3wxODQwNTM2OTd8MTUzMjQ3MjE5OTswYjg3NWFhZWU0MzIxNmFkOTkyNDg2YzM2MTIzZWQwMjgxNzU5MDE5MjQyZjQyNGZkOTk4NjU2MDJhNTVmNDE5)<br/>Original RSVP is closed. 8/28/18<br/>Networking, food, drinks, and demo stations.|
 |Happy Hour| Publicis.Sapient | Pitch 25 Beer Park<br/>2120 Walker Street | Wed Sept 26 | 6:00pm - 8:00pm | [RSVP](https://www.eventbrite.com/e/ghc-happy-hour-hosted-by-publicissapient-tickets-49894269102?aff=ebdssbdestsearch#tickets)|
 |Beers with Engineers - VMWorld Updates!| Dell EMC | Platypus Brewing<br/>1902 Washington Avenue| Wed Sept 26 | 4:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/beers-with-engineers-vmworld-updates-tickets-50080022696)|
+|#ConnectWith: ChocTail with Black Tech Women & Amazon| Givelify & Black Tech Women<br/>Amazon | Chapman and Kirby<br/>2118 Lamar Street<br/>Houston, TX 77003| Wed Sept 26 | 5:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/black-tech-women-connectwith-choctail-sponsored-by-amazon-tickets-49498554509)|
 
 ### Thursday, September 27
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
