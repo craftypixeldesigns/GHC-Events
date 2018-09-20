@@ -33,6 +33,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 |Station Startup Gigs| Station Houston | Station Houston<br/>1301 Fannin Street #2440 | Tue Sept 25 | 5:30pm - 7:00pm | [RSVP](https://www.eventbrite.com/e/station-startup-gigs-tickets-48165894487)|
 |Make it Mindful| Squarespace | The Houston Event Venue<br/>3118 Harrisburg Blvd | Tue Sept 25 | 6:00pm - 9:00pm | [RSVP](https://makeitmindful.squarespace.com/)|
+|Networking with Lyft | Lyft | Magnolia Hotel Houston, a Tribute Portfolio Hotel<br/>1100 Texas St | Tue Sept 25 | 7:00pm | [Join waitlist](https://networkingwithlyft.splashthat.com/)
 
 ### Wednesday, September 26
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
@@ -43,6 +44,8 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Netflix Happy Hour| Netflix | Vinoteca at the Four Seasons<br/>1300 Lamar St | Wed Sept 26 | 6:00pm - 9:00pm | [RSVP](https://netflixgh2018.splashthat.com/?em=537&guest-access-hash=MzA4MTY1M3wxODQwNTM2OTd8MTUzMjQ3MjE5OTswYjg3NWFhZWU0MzIxNmFkOTkyNDg2YzM2MTIzZWQwMjgxNzU5MDE5MjQyZjQyNGZkOTk4NjU2MDJhNTVmNDE5)<br/>Original RSVP is closed. 8/28/18<br/>Networking, food, drinks, and demo stations.|
 |Happy Hour| Publicis.Sapient | Pitch 25 Beer Park<br/>2120 Walker Street | Wed Sept 26 | 6:00pm - 8:00pm | [RSVP](https://www.eventbrite.com/e/ghc-happy-hour-hosted-by-publicissapient-tickets-49894269102?aff=ebdssbdestsearch#tickets)|
 |Beers with Engineers - VMWorld Updates!| Dell EMC | Platypus Brewing<br/>1902 Washington Avenue| Wed Sept 26 | 4:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/beers-with-engineers-vmworld-updates-tickets-50080022696)|
+|Cisco Disco 3.0 Networking Reception | Cisco | Warehouse Live<br/>813 Saint Emanuel Street | Wed Sept 26 | 6:00pm - 8:30pm | [RSVP](https://www.eventbrite.com/e/cisco-disco-30-networking-reception-ghc-2018-tickets-50092464911?ref=eios&aff=eios)
+| ChocTail sponsored by Amazon | Black Tech Women | Chapman and Kirby<br/>2118 Lamar Street | Wed Sept 26 | 5:30pm-7:30pm | [RSVP](https://www.eventbrite.com/e/black-tech-women-connectwith-choctail-sponsored-by-amazon-tickets-49498554509)
 
 ### Thursday, September 27
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
@@ -58,6 +61,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Women in Tech Workshop | Target | 501 Crawford Street <br/>Houston, TX 77002 | Thurs Sept 27 | 4:00pm - 6:00pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-workshop-at-grace-hopper-tickets-49675216911) |
 |Audible Game Night | Audible and PowerToFly | The Houston <br/>3118 Harrisburg Blvd <br/>Houston, TX 77003 | Thurs Sept 27 | 5:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/exclusive-invite-to-audibles-one-of-a-kind-networking-event-see-why-keep-reading-registration-49848678740)|
 |Celebrate Grace Hopper with Snap Inc | Snap| The Grove <br/>1611 Lamar St <br/>Houston, TX  | Thurs Sept 27 | 6:30pm - 9:30pm | [RSVP](https://gracehoppersnappyhour.splashthat.com)|
+|Grace Hopper Meetup | Major League Hacking | Ahh, Coffee<br/>2018 Rusk St | Thurs Sept 27 | 8:00am-10:00am | [Facebook RSVP](https://www.facebook.com/events/1890513091257541)
 
 
 ### Friday, September 28
@@ -75,7 +79,7 @@ http://bit.ly/DisneyGHCCode
 This will be used as reference for invite-only events
 - Amazon (evening)
 - Home Away (Sept 27, evening)
-- Audible Game Night (Sept 27)
+- [Adobe](https://adobeghc18.splashthat.com/)
 
 ## GHC-recruitment Initiatives
 
