@@ -62,6 +62,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Audible Game Night | Audible and PowerToFly | The Houston <br/>3118 Harrisburg Blvd <br/>Houston, TX 77003 | Thurs Sept 27 | 5:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/exclusive-invite-to-audibles-one-of-a-kind-networking-event-see-why-keep-reading-registration-49848678740)|
 |Celebrate Grace Hopper with Snap Inc | Snap| The Grove <br/>1611 Lamar St <br/>Houston, TX  | Thurs Sept 27 | 6:30pm - 9:30pm | [RSVP](https://gracehoppersnappyhour.splashthat.com)|
 |Grace Hopper Meetup | Major League Hacking | Ahh, Coffee<br/>2018 Rusk St | Thurs Sept 27 | 8:00am-10:00am | [Facebook RSVP](https://www.facebook.com/events/1890513091257541)
+|Okta at Grace Hopper Breakfast| Okta | Conroe room, Four Seasons Hotel Houston <br/>1300 Lamar St <br/>Houston, TX  | Thurs Sept 27 | 8:30am - 10:30am | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdf4kZFS9l3otm1PIpH-tZFUgIGNOOQN5v3eNxV88-X4tx7OA/viewform)|
 
 
 ### Friday, September 28
