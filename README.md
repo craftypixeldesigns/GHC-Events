@@ -46,6 +46,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Beers with Engineers - VMWorld Updates!| Dell EMC | Platypus Brewing<br/>1902 Washington Avenue| Wed Sept 26 | 4:30pm - 7:30pm | [RSVP](https://www.eventbrite.com/e/beers-with-engineers-vmworld-updates-tickets-50080022696)|
 |Cisco Disco 3.0 Networking Reception | Cisco | Warehouse Live<br/>813 Saint Emanuel Street | Wed Sept 26 | 6:00pm - 8:30pm | [RSVP](https://www.eventbrite.com/e/cisco-disco-30-networking-reception-ghc-2018-tickets-50092464911?ref=eios&aff=eios)
 | ChocTail sponsored by Amazon | Black Tech Women | Chapman and Kirby<br/>2118 Lamar Street | Wed Sept 26 | 5:30pm-7:30pm | [RSVP](https://www.eventbrite.com/e/black-tech-women-connectwith-choctail-sponsored-by-amazon-tickets-49498554509)
+| Schlumberger Meet & Greet | Schlumberger | Brasserie Du Parc (1440 Lamar St, Houston, TX 77010) | Wed Sept 26 | 6:30pm-8:30pm | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdGuQdpchCr62y7g3TSi-Zp53JQE9GVc49kD32Vx2nOJf1lAg/viewform) |
 
 ### Thursday, September 27
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
