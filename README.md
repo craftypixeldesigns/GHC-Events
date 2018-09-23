@@ -21,7 +21,8 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 |Senior Women's Lounge | GoDaddy | Four Seasons Hotel Houston<br/>1300 Lamar Street | Wed Sept 26<br/>Thurs Sept 27<br/>Fri, Sept 28 | Various times | [RSVP](https://www.eventbrite.com/e/godaddy-senior-womens-lounge-ghc18-tickets-48562509774) for different events<br/>Limited tickets available|
 |Mentoring Sessions | Linkedin | Grace Hopper Conference<br/>1001 Avenida De Las America | Wed Sept 26<br/>Thurs Sept 27<br/>Fri Sept 28 | Various times | [Apply to attend](https://linkedinmentoringsessionsatghc.splashthat.com/)|
-|Coinbase at Grace Hopper 2018 | Coinbase | Multiple locations | Wed Sept 26<br/>Thurs Sept 27 | Various times | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdPEB4ye5Oy2182ueq_zzVg2L9JGiWtzKEtbSa4PuGAPAf_cA/viewform)
+|Coinbase at Grace Hopper 2018 | Coinbase | Multiple locations | Wed Sept 26<br/>Thurs Sept 27 | Various times | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdPEB4ye5Oy2182ueq_zzVg2L9JGiWtzKEtbSa4PuGAPAf_cA/viewform) |
+| Zillow Group at GHC | Zillow Group | Not posted | Not posted | Not posted | [Fill out form](https://zillow.recsolu.com/external/events/eaLcSQTQTRW_LxlBAqR4VA)<br/>Spot not guaranteed |
 
 ### Monday, September 24
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
@@ -61,9 +62,10 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Happy Hour | Zocdoc |Grotto Downtown <br/> 1001 Avenida De Las Americas | Thurs Sept 27 | 6:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/grace-hopper-happy-hour-with-zocdoc-tickets-49754987507)|
 |Women in Tech Workshop | Target | 501 Crawford Street <br/>Houston, TX 77002 | Thurs Sept 27 | 4:00pm - 6:00pm | [RSVP](https://www.eventbrite.com/e/women-in-tech-workshop-at-grace-hopper-tickets-49675216911) |
 |Audible Game Night | Audible and PowerToFly | The Houston <br/>3118 Harrisburg Blvd <br/>Houston, TX 77003 | Thurs Sept 27 | 5:00pm - 9:00pm | [RSVP](https://www.eventbrite.com/e/exclusive-invite-to-audibles-one-of-a-kind-networking-event-see-why-keep-reading-registration-49848678740)|
-|Celebrate Grace Hopper with Snap Inc | Snap| The Grove <br/>1611 Lamar St <br/>Houston, TX  | Thurs Sept 27 | 6:30pm - 9:30pm | [RSVP](https://gracehoppersnappyhour.splashthat.com)|
+|Celebrate Grace Hopper with Snap Inc | Snap | The Grove <br/>1611 Lamar St <br/>Houston, TX  | Thurs Sept 27 | 6:30pm - 9:30pm | [RSVP](https://gracehoppersnappyhour.splashthat.com)|
 |Grace Hopper Meetup | Major League Hacking | Ahh, Coffee<br/>2018 Rusk St | Thurs Sept 27 | 8:00am-10:00am | [Facebook RSVP](https://www.facebook.com/events/1890513091257541)
 |Okta at Grace Hopper Breakfast| Okta | Conroe room, Four Seasons Hotel Houston <br/>1300 Lamar St <br/>Houston, TX  | Thurs Sept 27 | 8:30am - 10:30am | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdf4kZFS9l3otm1PIpH-tZFUgIGNOOQN5v3eNxV88-X4tx7OA/viewform)|
+| Microsoft AI & Mixed Reality | Microsoft | Not posted | Thurs Sept 27 | 7:00pm and 9:30pm | [RSVP](https://msftaimr.splashthat.com/) to receive invites to private dinners |
 
 
 ### Friday, September 28
@@ -82,6 +84,7 @@ This will be used as reference for invite-only events
 - Amazon (evening)
 - Home Away (Sept 27, evening)
 - [Adobe](https://adobeghc18.splashthat.com/)
+- Google (invite-only for scholars and [Women Techmakers](https://www.womentechmakers.com/))
 
 ## GHC-recruitment Initiatives
 
