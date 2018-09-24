@@ -66,7 +66,7 @@ All events are free and located in Houston, TX unless otherwise noted. Please do
 |Grace Hopper Meetup | Major League Hacking | Ahh, Coffee<br/>2018 Rusk St | Thurs Sept 27 | 8:00am-10:00am | [Facebook RSVP](https://www.facebook.com/events/1890513091257541)
 |Okta at Grace Hopper Breakfast| Okta | Conroe room, Four Seasons Hotel Houston <br/>1300 Lamar St <br/>Houston, TX  | Thurs Sept 27 | 8:30am - 10:30am | [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdf4kZFS9l3otm1PIpH-tZFUgIGNOOQN5v3eNxV88-X4tx7OA/viewform)|
 | Microsoft AI & Mixed Reality | Microsoft | Not posted | Thurs Sept 27 | 7:00pm and 9:30pm | [RSVP](https://msftaimr.splashthat.com/) to receive invites to private dinners |
-
+| Flexport Happy Hour| FlexPort | Pitch 25 Beer Park <br/> 2120 Walker St.  | Thurs Sept 27 | 6:00 - 8:00 pm | [RSVP](https://www.eventbrite.com/e/flexport-happy-hour-grace-hopper-celebration-registration-50422212194) 
 
 ### Friday, September 28
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
