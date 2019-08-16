@@ -13,6 +13,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 ### Multiple Days
 | Event 	| Company 	| Location 	| Date 	| Time 	| Notes 	|
 |-------	|---------	|----------	|------	|------	|-------	|
+|Happy Hour|Netflix|Unknown|Unknown|Unknown|Register online [here](https://netflixeventghc2019.splashthat.com/)|
 
 ### Monday, September 30
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
