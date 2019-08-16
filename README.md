@@ -1,5 +1,5 @@
 # GHC-Events
-Comprehensive list of events, receptions, and parties hosted by companies to provide networking opportunities for the Grace Hopper Celebration for Women in Computing attendees. 
+Comprehensive list of events, receptions, and parties hosted by companies to provide networking opportunities for the Grace Hopper Celebration for Women in Computing attendees.
 
 Please **do not** add events that are private, invite only, or exclusive to you.
 
@@ -11,27 +11,28 @@ For more, read [Optimizing the Grace Hopper Celebration Experience](https://medi
 All events are free and located in Orlando, FL unless otherwise noted. Please double check the times!
 
 ### Multiple Days
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
+|Event	                | Company       | Location     | Date        | Time	   | Notes       |
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
 ### Monday, September 30
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
+|Event	                | Company       | Location     | Date        | Time	   | Notes       |
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
 ### Tuesday, October 1
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
+|Event	                | Company       | Location     | Date        | Time	   | Notes       |
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
 ### Wednesday, October 2
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
+|Event	                | Company       | Location     | Date        | Time	   | Notes       |
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
+|GHC Beach Boardwalk|Twitter|Rosen Center Hotel - Executive Ballroom, 9840 International Dr |October 02|7:00 PM - 9:00 PM|Register online [here](https://ghc2019.splashthat.com)|
 
 ### Thursday, October 3
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
+|Event	                | Company       | Location     | Date        | Time	   | Notes       |
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
 ### Friday, October 4
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
+|Event	                | Company       | Location     | Date        | Time	   | Notes       |
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
 ### Additional Events
