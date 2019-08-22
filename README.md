@@ -21,7 +21,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 ### Tuesday, October 1
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
-
+| Samsara at Grace Hopper Conference | Samsara | TBD | Tue October 1, 2019 | 8:00 PM - 9:30 PM | [RSVP](https://jumpstart.me/discover/events/samsara/samsara-at-grace-hopper-celebration/e7db5d4e-21e6-4d24-be69-732d1bf58e2f)
 ### Wednesday, October 2
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
