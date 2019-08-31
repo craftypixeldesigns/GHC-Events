@@ -35,7 +35,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
 ### Additional Events
-
+Disney is hosting a Coding Challenge for GHC '19 attendees!  Take the challenge online for a chance to win an exclusive prize and to interview. https://www.hackerrank.com/tests/cm41cqlk7ib/60954977e5ccec32b7f69c550ecf2676
 ### Private Events
 This will be used as reference for invite-only events
 * Google: Women Techmaker & Scholars reception
