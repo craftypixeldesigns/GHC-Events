@@ -31,6 +31,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 ### Thursday, October 3
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
 |-------	|---------	|----------	|------	|-------	|
+|Amazon Networking at GHC|Amazon|Topgolf - 9295 Universal Boulevard Orlando, FL 32819|6:00 PM - 9:00 PM|Register online [here](https://amazonnetworkingatghc19.splashthat.com/)|
 
 ### Friday, October 4
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
