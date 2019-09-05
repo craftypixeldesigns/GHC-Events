@@ -1,5 +1,5 @@
 # GHC-Events
-Comprehensive list of events, receptions, and parties hosted by companies to provide networking opportunities for the Grace Hopper Celebration for Women in Computing attendees. 
+Comprehensive list of events, receptions, and parties hosted by companies to provide networking opportunities for the Grace Hopper Celebration for Women in Computing attendees.
 
 Please **do not** add events that are private, invite only, or exclusive to you.
 
@@ -11,34 +11,38 @@ For more, read [Optimizing the Grace Hopper Celebration Experience](https://medi
 All events are free and located in Orlando, FL unless otherwise noted. Please double check the times!
 
 ### Multiple Days
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
-|:---------------------:|---------------|--------------|-------------|---------|-------------|
+| Event 	| Company 	| Location 	| Date 	| Time 	| Notes 	|
+|-------	|---------	|----------	|------	|------	|-------	|
+|Happy Hour|Netflix|Unknown|Unknown|Unknown|Register online [here](https://netflixeventghc2019.splashthat.com/)|
 
 ### Monday, September 30
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
-|:---------------------:|---------------|--------------|-------------|---------|-------------|
+| Event 	| Company 	| Location 	| Time 	| Notes 	|
+|-------	|---------	|----------	|------	|-------	|
 
 ### Tuesday, October 1
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
-|:---------------------:|---------------|--------------|-------------|---------|-------------|
-| Samsara at Grace Hopper Conference | Samsara | TBD | Tue October 1, 2019 | 8:00 PM - 9:30 PM | [RSVP](https://jumpstart.me/discover/events/samsara/samsara-at-grace-hopper-celebration/e7db5d4e-21e6-4d24-be69-732d1bf58e2f)
+|Event	                | Company       | Location     | Time	   | Notes       | 
+|---------------------- |-------------- |------------- |-------- |------------ |
+| Samsara at Grace Hopper Conference | Samsara | TBD | 8:00 PM - 9:30 PM | [RSVP](https://jumpstart.me/discover/events/samsara/samsara-at-grace-hopper-celebration/e7db5d4e-21e6-4d24-be69-732d1bf58e2f)|
+
 ### Wednesday, October 2
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
-|:---------------------:|---------------|--------------|-------------|---------|-------------|
+| Event 	| Company 	| Location 	| Time 	| Notes 	|
+|-------	|---------	|----------	|------	|-------	|
+|GHC Beach Boardwalk|Twitter|Rosen Center Hotel - Executive Ballroom, 9840 International Dr |7:00 PM - 9:00 PM|Register online [here](https://ghc2019.splashthat.com)|
 
 ### Thursday, October 3
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
-|:---------------------:|---------------|--------------|-------------|---------|-------------|
+| Event 	| Company 	| Location 	| Time 	| Notes 	|
+|-------	|---------	|----------	|------	|-------	|
 
 ### Friday, October 4
-|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
-|:---------------------:|---------------|--------------|-------------|---------|-------------|
+| Event 	| Company 	| Location 	| Time 	| Notes 	|
+|-------	|---------	|----------	|------	|-------	|
 
 ### Additional Events
-
+Disney is hosting a Coding Challenge for GHC '19 attendees!  Take the challenge online for a chance to win an exclusive prize and to interview. https://www.hackerrank.com/tests/cm41cqlk7ib/60954977e5ccec32b7f69c550ecf2676
 ### Private Events
 This will be used as reference for invite-only events
 * Google: Women Techmaker & Scholars reception
+* Amazon
 
 ## GHC-recruitment Initiatives
 
