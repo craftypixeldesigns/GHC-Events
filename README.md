@@ -41,6 +41,7 @@ Disney is hosting a Coding Challenge for GHC '19 attendees!  Take the challenge 
 ### Private Events
 This will be used as reference for invite-only events
 * Google: Women Techmaker & Scholars reception
+* Amazon
 
 ## GHC-recruitment Initiatives
 
