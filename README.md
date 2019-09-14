@@ -3,7 +3,7 @@ Comprehensive list of events, receptions, and parties hosted by companies to pro
 
 Please **do not** add events that are private, invite only, or exclusive to you.
 
-**Contribute** by sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing TBD.
+**Contribute** by forking this repo and sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing TBD.
 
 ## 2019 GHC Events
 For more, read [Optimizing the Grace Hopper Celebration Experience](https://medium.com/@missCarrieMah/optimizing-the-grace-hopper-celebration-experience-726d624a0733) and [Tips from PowertoFly](https://blog.powertofly.com/grace-hopper-conference-2018-2603846357.html)
