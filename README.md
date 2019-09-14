@@ -32,6 +32,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 ### Thursday, October 3
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
 |-------	|---------	|----------	|------	|-------	|
+| Breakfast with Clever Engineering! | Clever | Westgate Lakes Resort & Spa 9500 Turkey Lake Road, Orlando, FL 32819 | 9:00 AM – 11:00 AM  | [RSVP](https://www.eventbrite.com/e/breakfast-with-clever-engineering-tickets-72154057729?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eventbrite&utm_term=viewevent)|
 
 ### Friday, October 4
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
