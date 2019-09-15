@@ -28,6 +28,8 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
 |-------	|---------	|----------	|------	|-------	|
 |GHC Beach Boardwalk|Twitter|Rosen Center Hotel - Executive Ballroom, 9840 International Dr |7:00 PM - 9:00 PM|Register online [here](https://ghc2019.splashthat.com)|
+|Drive your career with AWS|Amazon|Andretti Indoor Karting & Games, 9299 Universal Blvd |6:00 PM - 9:00 PM|[Register for waitlist](https://aws-bts-orlando.splashthat.com/)
+|Network Like a Girl Networking Event|Dell|Rosen Center Hotel - Harry's Patio, 9840 International Dr|5:30 PM - 7:30 PM| [Registration closed](https://docs.google.com/forms/d/e/1FAIpQLSeHEU0EBxXYgvCB4yYagwsbhHSoxQQsD4CLwFWf3J9gRSP2yA/closedform)
 
 ### Thursday, October 3
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
@@ -39,7 +41,8 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 |-------	|---------	|----------	|------	|-------	|
 
 ### Additional Events
-Disney is hosting a Coding Challenge for GHC '19 attendees!  Take the challenge online for a chance to win an exclusive prize and to interview. https://www.hackerrank.com/tests/cm41cqlk7ib/60954977e5ccec32b7f69c550ecf2676
+* Disney is hosting a [Coding Challenge](https://www.hackerrank.com/tests/cm41cqlk7ib/60954977e5ccec32b7f69c550ecf2676) for GHC '19 attendees!  Take the challenge online for a chance to win an exclusive prize and to interview. 
+
 ### Private Events
 This will be used as reference for invite-only events
 * Google: Women Techmaker & Scholars reception
@@ -48,6 +51,7 @@ This will be used as reference for invite-only events
 ## GHC-recruitment Initiatives
 
 ### Company Online Events
+[Getting the most out of the Grace Hopper Celebration](https://lnkd.in/edF-wq6) webinar Sep 12 at 12pm EST
 
 ### Company Career Pages
 
