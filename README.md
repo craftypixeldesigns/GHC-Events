@@ -3,7 +3,7 @@ Comprehensive list of events, receptions, and parties hosted by companies to pro
 
 Please **do not** add events that are private, invite only, or exclusive to you.
 
-**Contribute** by sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing TBD.
+**Contribute** by forking this repo and sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing TBD.
 
 ## 2019 GHC Events
 For more, read [Optimizing the Grace Hopper Celebration Experience](https://medium.com/@missCarrieMah/optimizing-the-grace-hopper-celebration-experience-726d624a0733) and [Tips from PowertoFly](https://blog.powertofly.com/grace-hopper-conference-2018-2603846357.html)
@@ -32,6 +32,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 ### Thursday, October 3
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
 |-------	|---------	|----------	|------	|-------	|
+| Breakfast with Clever Engineering! | Clever | Westgate Lakes Resort & Spa 9500 Turkey Lake Road, Orlando, FL 32819 | 9:00 AM – 11:00 AM  | [RSVP](https://www.eventbrite.com/e/breakfast-with-clever-engineering-tickets-72154057729?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eventbrite&utm_term=viewevent)|
 
 ### Friday, October 4
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
