@@ -6,7 +6,8 @@ Please **do not** add events that are private, invite only, or exclusive to you.
 **Contribute** by forking this repo and sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing TBD.
 
 ## 2019 GHC Events
-For more, read [Optimizing the Grace Hopper Celebration Experience](https://medium.com/@missCarrieMah/optimizing-the-grace-hopper-celebration-experience-726d624a0733) and [Tips from PowertoFly](https://blog.powertofly.com/grace-hopper-conference-2018-2603846357.html)
+For more, read [Optimizing the Grace Hopper Celebration Experience](https://medium.com/@missCarrieMah/optimizing-the-grace-hopper-celebration-experience-726d624a0733), [Tips from PowertoFly](https://blog.powertofly.com/grace-hopper-conference-2018-2603846357.html), [Resume tips](https://medium.com/@ShilpaVir/interviewing-at-ghc-the-resume-83adb6707b5a) and 
+[Things to do before GHC](https://medium.com/@ShilpaVir/interviewing-at-ghc-connecting-with-the-right-people-4026d6bb5fda).
 
 All events are free and located in Orlando, FL unless otherwise noted. Please double check the times!
 
