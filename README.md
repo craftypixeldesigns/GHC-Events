@@ -31,6 +31,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 |GHC Beach Boardwalk|Twitter|Rosen Center Hotel - Executive Ballroom, 9840 International Dr |7:00 PM - 9:00 PM|Register online [here](https://ghc2019.splashthat.com)|
 |Drive your career with AWS|Amazon|Andretti Indoor Karting & Games, 9299 Universal Blvd |6:00 PM - 9:00 PM|[Register for waitlist](https://aws-bts-orlando.splashthat.com/)
 |Network Like a Girl Networking Event|Dell|Rosen Center Hotel - Harry's Patio, 9840 International Dr|5:30 PM - 7:30 PM| [Registration closed](https://docs.google.com/forms/d/e/1FAIpQLSeHEU0EBxXYgvCB4yYagwsbhHSoxQQsD4CLwFWf3J9gRSP2yA/closedform)
+|IBM Grace Hopper Celebration |IBM |The Wizarding World of Harry Potter -- 6000 Universal Blvd, Orlando, FL 32819 |9:00 PM - 12:00 AM |Program your first quantum computer at the IBM booth for a chance to attend! |
 
 ### Thursday, October 3
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
