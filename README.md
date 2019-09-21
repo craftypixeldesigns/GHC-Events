@@ -44,6 +44,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 
 ### Additional Events
 * Disney is hosting a [Coding Challenge](https://www.hackerrank.com/tests/cm41cqlk7ib/60954977e5ccec32b7f69c550ecf2676) for GHC '19 attendees!  Take the challenge online for a chance to win an exclusive prize and to interview. 
+* Check out additional events in [spreadsheet](https://docs.google.com/spreadsheets/d/1xA2BIxQjBHqmZ1i4WTEFiQ9SX6ljQmbyF9ecNOGTbKc/edit?usp=sharing)
 
 ### Private Events
 This will be used as reference for invite-only events
@@ -54,6 +55,10 @@ This will be used as reference for invite-only events
 
 ### Company Online Events
 [Getting the most out of the Grace Hopper Celebration](https://lnkd.in/edF-wq6) webinar Sep 12 at 12pm EST
+
+### Company GHC Pages
+
+[MathWorks](https://www.mathworks.com/ghc) 
 
 ### Company Career Pages
 
