@@ -6,7 +6,7 @@ Please **do not** add events that are private, invite only, or exclusive to you.
 **Contribute** by forking this repo and sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues) or emailing TBD.
 
 ## 2019 GHC Events
-For more, read [Optimizing the Grace Hopper Celebration Experience](https://medium.com/@missCarrieMah/optimizing-the-grace-hopper-celebration-experience-726d624a0733), [Tips from PowertoFly](https://blog.powertofly.com/grace-hopper-conference-2018-2603846357.html), [Resume tips](https://medium.com/@ShilpaVir/interviewing-at-ghc-the-resume-83adb6707b5a) and 
+For more, read [Optimizing the Grace Hopper Celebration Experience](https://medium.com/@missCarrieMah/optimizing-the-grace-hopper-celebration-experience-726d624a0733), [Tips from PowertoFly](https://blog.powertofly.com/grace-hopper-conference-2018-2603846357.html), [Resume tips](https://medium.com/@ShilpaVir/interviewing-at-ghc-the-resume-83adb6707b5a) and
 [Things to do before GHC](https://medium.com/@ShilpaVir/interviewing-at-ghc-connecting-with-the-right-people-4026d6bb5fda).
 
 All events are free and located in Orlando, FL unless otherwise noted. Please double check the times!
@@ -21,7 +21,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 |-------	|---------	|----------	|------	|-------	|
 
 ### Tuesday, October 1
-|Event	                | Company       | Location     | Time	   | Notes       | 
+|Event	                | Company       | Location     | Time	   | Notes       |
 |---------------------- |-------------- |------------- |-------- |------------ |
 | Samsara at Grace Hopper Conference | Samsara | TBD | 8:00 PM - 9:30 PM | [RSVP](https://jumpstart.me/discover/events/samsara/samsara-at-grace-hopper-celebration/e7db5d4e-21e6-4d24-be69-732d1bf58e2f)|
 
@@ -32,6 +32,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 |Drive your career with AWS|Amazon|Andretti Indoor Karting & Games, 9299 Universal Blvd |6:00 PM - 9:00 PM|[Register for waitlist](https://aws-bts-orlando.splashthat.com/)
 |Network Like a Girl Networking Event|Dell|Rosen Center Hotel - Harry's Patio, 9840 International Dr|5:30 PM - 7:30 PM| [Registration closed](https://docs.google.com/forms/d/e/1FAIpQLSeHEU0EBxXYgvCB4yYagwsbhHSoxQQsD4CLwFWf3J9gRSP2yA/closedform)
 |IBM Grace Hopper Celebration |IBM |The Wizarding World of Harry Potter -- 6000 Universal Blvd, Orlando, FL 32819 |9:00 PM - 12:00 AM |Program your first quantum computer at the IBM booth for a chance to attend! |
+|Cocktails & Conversations|Goldman Sachs, Lesbians Who Tech|The Pub, 9101 International Drive|6:00pm - 8:00pm| [Register Here](https://www.eventbrite.com/e/goldman-sachs-x-lesbians-who-tech-allies-grace-hopper-edition-tickets-73321565777?internal_ref=login)|
 
 ### Thursday, October 3
 | Event 	| Company 	| Location 	| Time 	| Notes 	|
@@ -43,7 +44,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 |-------	|---------	|----------	|------	|-------	|
 
 ### Additional Events
-* Disney is hosting a [Coding Challenge](https://www.hackerrank.com/tests/cm41cqlk7ib/60954977e5ccec32b7f69c550ecf2676) for GHC '19 attendees!  Take the challenge online for a chance to win an exclusive prize and to interview. 
+* Disney is hosting a [Coding Challenge](https://www.hackerrank.com/tests/cm41cqlk7ib/60954977e5ccec32b7f69c550ecf2676) for GHC '19 attendees!  Take the challenge online for a chance to win an exclusive prize and to interview.
 
 ### Private Events
 This will be used as reference for invite-only events
